@@ -5,7 +5,7 @@ using UnityEngine;
 // [REF] 
 //  Unity Forums: Handles.Label with constant size (not scale based on distance to camera) 
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Camera"/>型の基本的な拡張メソッド集．

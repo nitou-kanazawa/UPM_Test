@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// "Create Asset Menu"用の各種定義

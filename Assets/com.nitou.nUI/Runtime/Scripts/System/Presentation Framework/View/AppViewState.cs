@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou.UI.PresentationFramework {
+namespace Nitou.UI.PresentationFramework {
 
     /// <summary>
     /// UI要素の状態値．

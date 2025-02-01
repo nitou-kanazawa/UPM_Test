@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.Tools.Hierarchy.EditorSctipts {
-    using nitou.Tools.Shared;
-    using nitou.EditorShared;
+namespace Nitou.Tools.Hierarchy.EditorSctipts {
+    using Nitou.Tools.Shared;
+    using Nitou.EditorShared;
 
     /// <summary>
     /// 

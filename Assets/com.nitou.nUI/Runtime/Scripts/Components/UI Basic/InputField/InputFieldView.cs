@@ -3,7 +3,7 @@ using UniRx;
 using UnityEngine;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI{
+namespace Nitou.UI{
 
     public abstract class InputFieldView<T> : MonoBehaviour, IDataHolder<T>{
 

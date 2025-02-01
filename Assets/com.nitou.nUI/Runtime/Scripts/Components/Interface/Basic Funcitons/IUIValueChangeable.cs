@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou.UI.Components{
+namespace Nitou.UI.Components{
 
     /// <summary>
     /// "ValueChange"イベントを扱うUIであることを示すインターフェース．

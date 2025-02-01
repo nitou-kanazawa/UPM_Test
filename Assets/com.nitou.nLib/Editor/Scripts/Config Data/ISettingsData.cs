@@ -1,5 +1,5 @@
 ﻿
-namespace nitou.EditorShared{
+namespace Nitou.EditorShared{
 
     /// <summary>
     /// 設定データを表すインターフェース

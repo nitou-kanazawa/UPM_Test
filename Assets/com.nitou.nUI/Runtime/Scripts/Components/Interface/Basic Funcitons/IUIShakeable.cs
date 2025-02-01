@@ -2,7 +2,7 @@
 using UniRx;
 using UnityEngine;
 
-namespace nitou.UI.Components{
+namespace Nitou.UI.Components{
 
     /// <summary>
     /// Interface of the UI that handles the “Shake” event.

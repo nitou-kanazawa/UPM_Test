@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.Shared{
+namespace Nitou.Shared {
 
     /// <summary>
     /// パッケージの各種設定を管理する静的クラス

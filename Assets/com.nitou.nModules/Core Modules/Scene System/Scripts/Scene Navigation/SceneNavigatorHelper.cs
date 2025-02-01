@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace nitou.SceneSystem{
+namespace Nitou.SceneSystem{
 
     public static class SceneNavigatorHelper{
 

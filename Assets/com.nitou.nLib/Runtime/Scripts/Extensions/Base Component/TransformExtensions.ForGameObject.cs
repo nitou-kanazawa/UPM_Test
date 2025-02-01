@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// GameObject型の拡張メソッドを管理するクラス

@@ -5,7 +5,7 @@ using UnityEngine;
 //  qiita: シングルトンを使ってみよう　https://qiita.com/Teach/items/c146c7939db7acbd7eee
 //  kanのメモ帳: MonoBehaviourを継承したシングルトン https://kan-kikuchi.hatenablog.com/entry/SingletonMonoBehaviour
 
-namespace nitou.DesignPattern {
+namespace Nitou.DesignPattern {
 
     /// <summary>
     /// MonoBehaviourを継承したシングルトン

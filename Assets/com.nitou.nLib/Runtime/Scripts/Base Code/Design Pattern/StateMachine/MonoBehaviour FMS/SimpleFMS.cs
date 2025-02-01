@@ -6,7 +6,7 @@ using Sirenix.OdinInspector;
 using UnityEditor;
 #endif
 
-namespace nitou.DesignPattern {
+namespace Nitou.DesignPattern {
 
     /// <summary>
     /// ステートの初期化パラメータ．

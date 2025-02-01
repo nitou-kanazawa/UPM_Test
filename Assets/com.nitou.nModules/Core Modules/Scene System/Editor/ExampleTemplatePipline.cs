@@ -6,7 +6,7 @@ using UnityEditor.SceneTemplate;
 // [参考]
 //  LIGHT11: シーンの雛形を作れるScene Template機能の使い方まとめ https://light11.hatenadiary.com/entry/2022/06/08/193509
 
-namespace nitou.SceneSystem.EditorScripts {
+namespace Nitou.SceneSystem.EditorScripts {
 
     public class ExampleTemplatePipline : ISceneTemplatePipeline {
 

@@ -7,7 +7,7 @@ using UniRx;
 //  qiita: シーンの読み込みイベントをIObservableにする https://qiita.com/su10/items/93977e0b95449ec1b944
 //  qiita: UniRxのObservable.FromEventを使う https://qiita.com/ShirakawaMaru/items/4071aad0937ecbdc7fe9
 
-namespace nitou.SceneSystem {
+namespace Nitou.SceneSystem {
 
     /// <summary>
     /// <see cref="SceneManager"/>のイベントをObserbableに変換するライブラリ

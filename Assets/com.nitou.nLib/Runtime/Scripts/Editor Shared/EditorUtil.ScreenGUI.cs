@@ -9,7 +9,7 @@ using UnityEditor;
 //  LIGHT11: エディタ拡張チートシート https://light11.hatenadiary.com/entry/2018/07/08/134405
 //  qiita: エディタ拡張で仕切り線を描く https://qiita.com/Gok/items/96e8747269bf4a2a9cc5
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
     public static partial class EditorUtil {
 
         /// <summary>

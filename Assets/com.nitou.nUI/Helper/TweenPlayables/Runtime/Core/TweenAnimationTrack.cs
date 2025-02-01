@@ -7,7 +7,7 @@ using UnityEngine.Playables;
 using UnityEditor;
 #endif
 
-namespace nitou.TweenPlayables {
+namespace Nitou.TweenPlayables {
 
     [Serializable]
     public abstract class TweenAnimationTrack<TBinding, TMixerBehaviour, TAnimationBehaviour> : TrackAsset

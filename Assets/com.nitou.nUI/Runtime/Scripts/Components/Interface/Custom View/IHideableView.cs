@@ -3,7 +3,7 @@ using Cysharp.Threading.Tasks;
 using DG.Tweening;
 using UnityEngine;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     /// <summary>
     /// 表示・非表示の切り替えが可能な基本UI．

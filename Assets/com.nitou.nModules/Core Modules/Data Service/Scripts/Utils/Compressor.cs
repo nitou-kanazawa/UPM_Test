@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.IO.Compression;
 
-namespace nitou.SaveSystem.Utils {
+namespace Nitou.SaveSystem.Utils {
 
     /// <summary>
     /// バイナリデータをgzipフォーマットに従って圧縮、解凍する静的クラス

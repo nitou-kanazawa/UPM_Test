@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
-    /// <see cref="CapsuleCollider"/>の基本的な拡張メソッド集
+    /// <see cref="CapsuleCollider"/>型の基本的な拡張メソッド集．
     /// </summary>
     public static class CapsuleColliderExtensions {
 
@@ -11,21 +11,21 @@ namespace nitou {
         // 
 
         /// <summary>
-        /// グローバル座標に変換したコライダー中心座標を取得する拡張メソッド
+        /// グローバル座標に変換したコライダー中心座標を取得する拡張メソッド．
         /// </summary>
         public static Vector3 GetWorldCenter(this CapsuleCollider self) {
             return self.transform.TransformPoint(self.center);
         }
 
         /// <summary>
-        /// 親階層を考慮した半径を取得する拡張メソッド
+        /// 親階層を考慮した半径を取得する拡張メソッド．
         /// </summary>
         public static float GetScaledRadius(this CapsuleCollider capsule) {
             return capsule.radius * Mathf.Max(capsule.transform.lossyScale.x, capsule.transform.lossyScale.z);
         }
 
         /// <summary>
-        /// 親階層を考慮した高さを取得する拡張メソッド
+        /// 親階層を考慮した高さを取得する拡張メソッド．
         /// </summary>
         public static float GetScaledHeight(this CapsuleCollider capsule) {
             return capsule.height * capsule.transform.lossyScale.y;
@@ -35,7 +35,7 @@ namespace nitou {
         /// ----------------------------------------------------------------------------
 
         /// <summary>
-        /// 指定座標が<see cref="CapsuleCollider"/>の内部に含まれるか判定する拡張メソッド
+        /// 指定座標が<see cref="CapsuleCollider"/>の内部に含まれるか判定する拡張メソッド．
         /// </summary>
         public static bool Contains(this CapsuleCollider capsule, Vector3 point) {
 
@@ -73,7 +73,7 @@ namespace nitou {
         // Public Method (Axis)
 
         /// <summary>
-        /// <see cref="CapsuleCollider"/> の軸を取得する
+        /// <see cref="CapsuleCollider"/> の軸を取得する．
         /// </summary>
         public static Axis GetAxis(this CapsuleCollider capsule) {
             return capsule.direction switch {
@@ -85,7 +85,7 @@ namespace nitou {
         }
 
         /// <summary>
-        /// <see cref="CapsuleCollider"/> の軸に対応する <see cref="Vector3"/> を取得する
+        /// <see cref="CapsuleCollider"/> の軸に対応する <see cref="Vector3"/> を取得する．
         /// </summary>
         public static Vector3 GetAxisVector(this CapsuleCollider capsule) {
             return capsule.direction switch {

@@ -7,7 +7,7 @@ using System.Collections.Generic;
 //  qiita: C# 7.3からGeneric制約にEnumが使えるようなって便利 https://qiita.com/m-otoguro/items/8b9fa888aed0733ca3a1
 //  note: Enumを活用する便利関数まとめ https://note.com/projectmeme/n/nbbe8da48ba34
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Enum"/>型に対する汎用メソッド集

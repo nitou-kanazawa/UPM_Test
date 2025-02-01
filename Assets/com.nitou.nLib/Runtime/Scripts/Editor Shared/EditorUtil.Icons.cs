@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.EditorShared{
+namespace Nitou.EditorShared{
     public static partial class EditorUtil{
 
         /// <summary>

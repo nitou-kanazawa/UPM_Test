@@ -5,7 +5,7 @@ using UnityEngine;
 // [参考]
 //  qiita: 角度を扱うときはfloatじゃなくて専用のAngle構造体を用意すると捗る https://qiita.com/yutorisan/items/63679fc1babb142e5b01
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 角度情報を扱う構造体

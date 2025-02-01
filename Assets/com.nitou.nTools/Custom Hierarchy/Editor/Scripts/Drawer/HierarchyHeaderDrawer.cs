@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.Tools.Hierarchy.EditorSctipts {
+namespace Nitou.Tools.Hierarchy.EditorSctipts {
 
     public sealed class HierarchyHeaderDrawer : HierarchyDrawer {
 

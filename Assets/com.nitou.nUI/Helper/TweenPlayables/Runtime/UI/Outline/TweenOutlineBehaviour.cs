@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine.UI;
 
-namespace nitou.TweenPlayables
+namespace Nitou.TweenPlayables
 {
     [Serializable]
     public class TweenOutlineBehaviour : TweenAnimationBehaviour<Outline>

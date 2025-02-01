@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 using UniRx;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     /// <summary>
     /// 基本機能のみの独自スライダーUI

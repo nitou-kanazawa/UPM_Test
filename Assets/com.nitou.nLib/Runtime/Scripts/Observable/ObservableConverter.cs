@@ -9,7 +9,7 @@ using UnityEngine;
 //  _: 非同期コールバック関数パターン https://developer.aiming-inc.com/csharp/unity-csharp-async-callback-patterns/
 //  _: UniRxで課題だったRxとasync/awaitの連携がR3では楽になった件 https://developer.aiming-inc.com/csharp/post-10773/
 
-namespace nitou {
+namespace Nitou {
 
     public static class ObservableConverter {
 

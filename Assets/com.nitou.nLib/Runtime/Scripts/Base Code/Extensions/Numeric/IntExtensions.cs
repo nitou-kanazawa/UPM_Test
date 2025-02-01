@@ -4,7 +4,7 @@ using UnityEngine;
 // [参考]
 //  qiita: C#で数値をカンマ付き文字列に変換する方法 https://qiita.com/benjamin1gou/items/fd95dc47bc31ec734b83
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="int"/>型の基本的な拡張メソッド集．

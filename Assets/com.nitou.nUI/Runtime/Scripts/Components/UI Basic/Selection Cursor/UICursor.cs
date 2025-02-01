@@ -2,7 +2,7 @@
 using UnityEngine;
 using UniRx;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
     
     /// <summary>
     /// 基本機能のみの独自カーソルUI

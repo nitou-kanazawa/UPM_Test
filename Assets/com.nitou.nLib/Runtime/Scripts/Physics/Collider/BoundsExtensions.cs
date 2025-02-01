@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
-    /// <see cref="Bounds"/>の基本的な拡張メソッド集．
+    /// <see cref="Bounds"/>型の基本的な拡張メソッド集．
     /// </summary>
     public static class BoundsExtensions {
 
@@ -69,7 +69,10 @@ namespace nitou {
     }
 
 
-    public static class BoundUtil {
+    /// <summary>
+    /// <see cref="Bounds"/>型を対象とした汎用メソッド集．
+    /// </summary>
+    public static class BoundUtils {
 
         public static Bounds Union(IReadOnlyCollection<Bounds> bounds) {
             if (bounds == null || bounds.Count < 1) throw new System.InvalidOperationException();

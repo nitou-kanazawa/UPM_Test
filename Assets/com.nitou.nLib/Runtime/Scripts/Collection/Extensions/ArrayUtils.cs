@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Array"/>型の汎用メソッド．

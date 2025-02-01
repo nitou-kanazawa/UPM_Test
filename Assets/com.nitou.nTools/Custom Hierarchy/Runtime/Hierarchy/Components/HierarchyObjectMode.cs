@@ -1,5 +1,5 @@
 ﻿
-namespace nitou.Tools.Hierarchy {
+namespace Nitou.Tools.Hierarchy {
     
     /// <summary>
     /// Specify how to handle HierarchyObject at runtime.

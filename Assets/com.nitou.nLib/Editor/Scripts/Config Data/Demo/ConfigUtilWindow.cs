@@ -5,7 +5,7 @@ using UnityEditor;
 // [参考]
 //  LIGHT11: エディタでデータを保存する場所と保存方法まとめ
 
-namespace nitou.ConfigManagement{
+namespace Nitou.ConfigManagement{
 
     public class ConfigUtilWindow : EditorWindow{
 

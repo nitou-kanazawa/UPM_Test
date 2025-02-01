@@ -3,7 +3,7 @@ using UniRx;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     /// <summary>
     /// 選択状態にならない独自ボタンUI

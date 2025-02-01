@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 範囲を表すインターフェース．

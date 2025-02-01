@@ -6,7 +6,7 @@ using UnityEditor;
 // [参考]
 //  LIGHT11: スクリプトからスクリプトファイル(.cs)を生成する https://light11.hatenadiary.com/entry/2018/03/22/191516
 
-namespace nitou.Tools.CodeGeneration{
+namespace Nitou.Tools.CodeGeneration{
 
     /// <summary>
     /// コード生成関連のメソッドを提供するクラス

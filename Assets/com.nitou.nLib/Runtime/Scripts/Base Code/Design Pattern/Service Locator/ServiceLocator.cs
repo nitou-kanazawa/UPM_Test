@@ -11,7 +11,7 @@ using System.Collections.Generic;
 //   - オブジェクトの依存関係が見えなくなる（※ConstructorInjectionを使わないため）
 //  DIコンテナを導入可能ならそちらを先に検討する．
 
-namespace nitou.DesignPattern {
+namespace Nitou.DesignPattern {
 
     /// <summary>
     /// シンプルな実装のサービスロケータ．

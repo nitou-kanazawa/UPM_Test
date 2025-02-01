@@ -1,6 +1,6 @@
 ﻿using TMPro;
 
-namespace nitou.TweenPlayables
+namespace Nitou.TweenPlayables
 {
     public class TweenTextMeshProUGUIMixerBehaviour : TweenAnimationMixerBehaviour<TextMeshProUGUI, TweenTextMeshProUGUIBehaviour>
     {

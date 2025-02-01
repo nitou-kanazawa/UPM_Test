@@ -6,7 +6,7 @@ using UnityScreenNavigator.Runtime.Core.Page;
 using UnityScreenNavigator.Runtime.Core.Modal;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI {
+namespace Nitou.UI {
 
     /// <summary>
     /// 画面タイプ

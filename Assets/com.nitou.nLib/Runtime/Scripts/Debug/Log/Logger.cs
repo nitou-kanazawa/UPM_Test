@@ -5,7 +5,7 @@ using Debug = UnityEngine.Debug;
 // [REF] 
 //  qiita: 
 
-namespace nitou {
+namespace Nitou {
     public static class Logger {
         
         private static bool _isLoggingEnabled = true;

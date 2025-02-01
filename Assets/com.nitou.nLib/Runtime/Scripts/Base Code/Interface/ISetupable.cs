@@ -3,7 +3,7 @@
 //  任意のタイミングでリセットしたいことが多くあるため，インターフェースを作成．
 //  記述の統一を主目的としているため，ポリモーフィックな使用は未想定．
 
-namespace nitou {
+namespace Nitou {
 
     public interface ISetupable {
         public void Setup();

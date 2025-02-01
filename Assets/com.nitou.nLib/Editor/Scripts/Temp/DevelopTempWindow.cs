@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.EditorScripts {
+namespace Nitou.EditorScripts {
 
     public class DevelopTempWindow : EditorWindow {
         

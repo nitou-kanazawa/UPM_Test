@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace nitou.Networking{
+namespace Nitou.Networking{
 
     [Serializable]
     public class TimeResponse : HttpResponse{

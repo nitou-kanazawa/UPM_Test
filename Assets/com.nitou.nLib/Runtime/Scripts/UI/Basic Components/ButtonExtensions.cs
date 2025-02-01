@@ -8,7 +8,7 @@ using UnityEngine.EventSystems;
 //  UnityQuesion: How to trigger a button click from script https://answers.unity.com/questions/945299/how-to-trigger-a-button-click-from-script.html
 //  Hatena: ボタンを 1回だけ実行するようにする 拡張メソッド https://hacchi-man.hatenablog.com/entry/2020/12/12/220000
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// Buttonの拡張メソッドクラス

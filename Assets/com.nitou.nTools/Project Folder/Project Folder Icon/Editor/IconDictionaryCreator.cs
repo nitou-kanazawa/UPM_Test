@@ -10,9 +10,9 @@ using UnityEditor;
 //  qiita: エディター拡張で、読み込むアセットのパスをハードコードしないために https://qiita.com/tsukimi_neko/items/3d57e3808acb88e11c39
 //  　→ （※AssetPostprocessorはUnity.Object？を親に持たないため，シリアライズ対象外みたい）
 
-namespace nitou.Tools.ProjectWindow {
-    using nitou.Tools.Shared;
-    using nitou.EditorShared;
+namespace Nitou.Tools.ProjectWindow {
+    using Nitou.Tools.Shared;
+    using Nitou.EditorShared;
 
     /// <summary>
     /// フォルダアイコン画像を管理するDictionayを生成する

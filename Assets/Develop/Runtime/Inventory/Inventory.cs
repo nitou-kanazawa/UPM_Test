@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UniRx;
 
-namespace nitou.InventorySystem {
+namespace Nitou.InventorySystem {
 
     /// <summary>
     /// シンプルなインベントリの基底クラス．

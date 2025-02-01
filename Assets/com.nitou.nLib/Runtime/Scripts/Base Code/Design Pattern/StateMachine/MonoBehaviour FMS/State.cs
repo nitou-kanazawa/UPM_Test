@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.DesignPattern {
+namespace Nitou.DesignPattern {
 
     /// <summary>
     /// MonoBehaviour を継承したステート基底クラス

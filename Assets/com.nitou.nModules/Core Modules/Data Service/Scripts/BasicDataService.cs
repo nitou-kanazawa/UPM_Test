@@ -3,7 +3,7 @@
 // [参考]
 //  Hatena: Jsonファイルを利用したセーブ機能の実装 https://kiironomidori.hatenablog.com/entry/unity_save_json
 
-namespace nitou.SaveSystem {
+namespace Nitou.SaveSystem {
 
     public sealed class BasicDataService : DataServiceBase {
 

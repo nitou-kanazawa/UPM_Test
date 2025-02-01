@@ -4,7 +4,7 @@ using Sirenix.OdinInspector;
 // [参考]
 //  youtube: Devlog 2｜スクリプタブルオブジェクトを使ったゲームアーキテクチャ https://www.youtube.com/watch?v=WLDgtRNK2VE
 
-namespace nitou.EventChannel.Shared {
+namespace Nitou.EventChannel.Shared {
 
     /// <summary>
     /// イベントチャンネル用のたたき台となるScriptable Object

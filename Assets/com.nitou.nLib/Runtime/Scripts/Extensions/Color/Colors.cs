@@ -3,7 +3,7 @@
 // [REF]
 //  コガネブログ: Color 型の定数がたくさん定義された「Colors」紹介 https://baba-s.hatenablog.com/entry/2017/12/28/145900
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 様々な<see cref="Color"/>データを提供するライブラリ．

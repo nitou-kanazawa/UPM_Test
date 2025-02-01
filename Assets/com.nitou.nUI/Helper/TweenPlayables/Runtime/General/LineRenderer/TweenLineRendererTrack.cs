@@ -4,7 +4,7 @@ using System.ComponentModel;
 using UnityEngine;
 using UnityEngine.Timeline;
 
-namespace nitou.TweenPlayables
+namespace Nitou.TweenPlayables
 {
     [TrackBindingType(typeof(LineRenderer))]
     [TrackClipType(typeof(TweenLineRendererClip))]

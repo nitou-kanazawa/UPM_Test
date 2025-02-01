@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou.Tools.Hierarchy{
+namespace Nitou.Tools.Hierarchy{
 
     /// <summary>
     /// ヒエラルキーにフォルダを描画するコンポーネント．

@@ -2,7 +2,7 @@
 using UnityEditor.Timeline;
 using UnityEngine.Timeline;
 
-namespace nitou.TweenPlayables.Editor
+namespace Nitou.TweenPlayables.Editor
 {
     public abstract class TweenAnimationClipEditor : ClipEditor
     {

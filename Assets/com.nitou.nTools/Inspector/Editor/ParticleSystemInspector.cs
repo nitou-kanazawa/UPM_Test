@@ -6,8 +6,8 @@ using UnityEngine;
 // [参考]
 //  コガネブログ: ParticleSystemのInspectorに"Play・Pause"などのボタンを追加するエディタ拡張 https://baba-s.hatenablog.com/entry/2022/02/22/090000
 
-namespace nitou.Tools.Inspector {
-    using nitou.EditorShared;
+namespace Nitou.Tools.Inspector {
+    using Nitou.EditorShared;
 
     /// <summary>
     /// ParticleSystemのインスペクター拡張

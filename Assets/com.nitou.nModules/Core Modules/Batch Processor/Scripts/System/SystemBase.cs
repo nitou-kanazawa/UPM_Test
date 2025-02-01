@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou.BachProcessor {
+namespace Nitou.BachProcessor {
 
     /// <summary>
     /// The base class for performing batch processing. It collects and processes multiple components collectively.

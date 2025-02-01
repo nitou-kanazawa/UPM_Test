@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.Tools.Hierarchy {
+namespace Nitou.Tools.Hierarchy {
 
     /// <summary>
     /// ヒエラルキーにヘッダーを描画するコンポーネント．

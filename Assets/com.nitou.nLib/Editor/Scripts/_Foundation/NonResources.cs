@@ -7,7 +7,7 @@ using UnityEditor;
 // [参考]
 //  kanのメモ帳: Resources以外からアセットをロードする便利クラス https://kan-kikuchi.hatenablog.com/entry/NonResources
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
 
     /// <summary>
     /// <see cref="AssetDatabase"/>のラッパー

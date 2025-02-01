@@ -6,7 +6,7 @@ using UnityEngine.UI;
 //  コガネブログ: Color の代入を簡略化する Deconstruction https://baba-s.hatenablog.com/entry/2019/09/03/230300
 //  _: Imageの色それぞれ変更する拡張 https://hi-network.sakura.ne.jp/wp/2021/01/26/post-3660/
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Color"/>型の基本的な拡張メソッド集．

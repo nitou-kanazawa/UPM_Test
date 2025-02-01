@@ -5,8 +5,8 @@ using UniRx;
 // [参考]
 //  qiita: 2022年現在におけるUniRxの使いみち https://qiita.com/toRisouP/items/af7d32846ab99f493d92
 
-namespace nitou.GameSystem {
-    using nitou.DesignPattern;
+namespace Nitou.GameSystem {
+    using Nitou.DesignPattern;
 
     /// <summary>
     /// プロセスの基底クラス．

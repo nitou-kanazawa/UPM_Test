@@ -7,7 +7,7 @@ using System.Collections.Generic;
 // [参考]
 //  コガネブログ: Dictionary型の変数定義が横に長くなるのが気になる https://baba-s.hatenablog.com/entry/2014/02/12/105154#google_vignette
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
 
     // [TODO] いい感じの２キーDictionaryを整備したい (2024.08.01)
     // Rererence: https://www.foundations.unity.com/fundamentals/color-palette

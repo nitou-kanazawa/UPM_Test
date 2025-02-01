@@ -5,7 +5,7 @@ using UnityEngine;
 // [参考]
 //  コガネブログ: Vector2 の代入を簡略化する Deconstruction https://baba-s.hatenablog.com/entry/2019/09/03/230900
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Vector2"/>型の基本的な拡張メソッド集．

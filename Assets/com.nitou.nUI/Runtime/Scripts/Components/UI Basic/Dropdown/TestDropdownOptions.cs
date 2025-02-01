@@ -2,7 +2,7 @@
 using UnityEngine;
 using TMPro;
 
-namespace nitou.UI.Demo {
+namespace Nitou.UI.Demo {
 
     public enum MyType {
         ModeA,　ModeB,　ModeC,　ModeD,

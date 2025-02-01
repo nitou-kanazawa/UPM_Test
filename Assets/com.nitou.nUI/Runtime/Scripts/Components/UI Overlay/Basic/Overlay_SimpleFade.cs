@@ -3,7 +3,7 @@ using UnityEngine;
 using DG.Tweening;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI.Overlay {
+namespace Nitou.UI.Overlay {
 
     /// <summary>
     /// シンプルなフェードイン・フェードアウトの蓋絵

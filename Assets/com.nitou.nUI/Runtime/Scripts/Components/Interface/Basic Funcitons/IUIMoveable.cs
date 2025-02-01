@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine.EventSystems;
 
-namespace nitou.UI.Components{
+namespace Nitou.UI.Components{
 
     /// <summary>
     /// Interface of the UI that handles the “Move” event

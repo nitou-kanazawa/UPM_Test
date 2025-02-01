@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-namespace nitou.UI.Components{
+namespace Nitou.UI.Components{
 
     /// <summary>
     /// Trigger component to select elements when start.

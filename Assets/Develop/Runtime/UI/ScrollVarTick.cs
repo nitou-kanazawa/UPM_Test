@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace nitou{
+namespace Nitou{
 
     [ExecuteAlways]
     public class ScrollVarTick : MonoBehaviour{

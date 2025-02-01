@@ -2,8 +2,8 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.Tools.Demo {
-    using nitou.Tools.Shared;
+namespace Nitou.Tools.Demo {
+    using Nitou.Tools.Shared;
 
     public static class SubEditorWindowTest {
 

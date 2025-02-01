@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     [RequireComponent(typeof(UICursor))]
     [DisallowMultipleComponent]

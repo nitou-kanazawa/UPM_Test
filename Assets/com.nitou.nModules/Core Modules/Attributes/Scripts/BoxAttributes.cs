@@ -9,7 +9,7 @@ using Sirenix.Utilities.Editor;
 // [参考]
 //  _: Box Attributes - Simple attributes to more easily differentiate objects https://odininspector.com/community-tools/593/box-attributes-simple-attributes-to-more-easily-differentiate-objects
 
-namespace nitou.Inspector {
+namespace Nitou.Inspector {
 
     /// <summary>
     /// Draw the properties with a darker background and

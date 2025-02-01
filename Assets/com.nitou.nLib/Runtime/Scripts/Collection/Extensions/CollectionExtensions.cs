@@ -10,7 +10,7 @@ using System.Runtime.CompilerServices;
 //  JojoBase: コレクションの拡張メソッド Collection Extensions https://johobase.com/collection-extensions-methods-list/
 //  qiita: あるとちょっと便利な拡張メソッド紹介 https://qiita.com/s_mino_ri/items/0fd2e2b3cebb7a62ad46
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// Collectionの基本的な拡張メソッド集．

@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace nitou.TweenPlayables {
+namespace Nitou.TweenPlayables {
     
     [Serializable]
     public class TweenCanvasGroupBehaviour : TweenAnimationBehaviour<CanvasGroup> {

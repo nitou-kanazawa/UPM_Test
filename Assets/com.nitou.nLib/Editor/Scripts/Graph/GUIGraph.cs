@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
 
     /// <summary>
     /// GUIにグラフを表示するクラス

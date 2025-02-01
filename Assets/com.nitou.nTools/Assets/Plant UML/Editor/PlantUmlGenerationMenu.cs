@@ -3,8 +3,8 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.Tools.PumlGenerator {
-    using nitou.Tools.Shared;
+namespace Nitou.Tools.PumlGenerator {
+    using Nitou.Tools.Shared;
 
     public static class PlantUmlGeneratorMenu {
         

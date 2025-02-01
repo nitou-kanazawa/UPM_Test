@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 // [参考]
 //  qiita: いい感じのUnity用セーブデータ管理クラス https://qiita.com/tocoteron/items/b865edaa0e3018cb5e55
 
-namespace nitou.SaveSystem.Utils {
+namespace Nitou.SaveSystem.Utils {
 
     /// <summary>
     /// データをAESを用いて暗号化、復号化する静的クラス

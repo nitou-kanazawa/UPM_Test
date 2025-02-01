@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 // [REF]
 //  qiita: パスワードのようなランダムな文字列を生成して返す関数 https://baba-s.hatenablog.com/entry/2015/07/07/000000
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="string"/>型の汎用メソッド集．

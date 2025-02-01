@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using TMPro;
 
-namespace nitou.TweenPlayables
+namespace Nitou.TweenPlayables
 {
     [Serializable]
     public class TweenTextMeshProUGUIBehaviour : TweenAnimationBehaviour<TextMeshProUGUI>

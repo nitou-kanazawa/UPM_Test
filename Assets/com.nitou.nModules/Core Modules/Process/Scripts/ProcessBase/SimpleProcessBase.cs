@@ -3,7 +3,7 @@ using Cysharp.Threading.Tasks;
 using UniRx;
 using UnityEngine;
 
-namespace nitou.GameSystem {
+namespace Nitou.GameSystem {
 
     /// <summary>
     /// 

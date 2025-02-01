@@ -3,7 +3,7 @@
 // [参考]
 //  github: MatthewMaker/DrawArrow.cs https://gist.github.com/MatthewMaker/5293052
 
-namespace nitou.DebugInternal {
+namespace Nitou.DebugInternal {
     internal static partial class GizmoDrawer {
 
         /// <summary>

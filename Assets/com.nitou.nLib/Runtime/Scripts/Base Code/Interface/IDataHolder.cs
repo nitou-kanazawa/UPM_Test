@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UniRx;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// An object that can hold data of type <see cref="T"/>.

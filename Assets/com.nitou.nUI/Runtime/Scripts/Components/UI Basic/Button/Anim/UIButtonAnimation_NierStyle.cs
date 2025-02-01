@@ -4,7 +4,7 @@ using TMPro;
 using DG.Tweening;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     public class UIButtonAnimation_NierStyle : UIButtonAnimationBase {
 

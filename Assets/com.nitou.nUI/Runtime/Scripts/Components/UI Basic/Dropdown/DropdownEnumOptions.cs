@@ -4,7 +4,7 @@ using UniRx;
 using UnityEngine;
 using TMPro;
 
-namespace nitou.UI {
+namespace Nitou.UI {
 
     /// <summary>
     /// 

@@ -1,5 +1,5 @@
 ﻿
-namespace nitou.BachProcessor{
+namespace Nitou.BachProcessor{
     
     public interface ISystemBase{
         

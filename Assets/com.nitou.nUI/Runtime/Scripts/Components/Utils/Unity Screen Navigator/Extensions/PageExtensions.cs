@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using nitou;
+using Nitou;
 
 namespace UnityScreenNavigator.Runtime.Core.Page{
 

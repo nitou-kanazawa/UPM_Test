@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
-namespace nitou.EventChannel {
-    using nitou.EventChannel.Shared;
+namespace Nitou.EventChannel {
+    using Nitou.EventChannel.Shared;
 
     /// <summary>
     /// Event listener for type of <see cref="Vector3"/>.

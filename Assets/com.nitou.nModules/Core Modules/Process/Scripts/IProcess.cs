@@ -2,7 +2,7 @@
 using Cysharp.Threading.Tasks;
 using UniRx;
 
-namespace nitou.GameSystem {
+namespace Nitou.GameSystem {
 
     public enum ProcessState {
         NotStarted,

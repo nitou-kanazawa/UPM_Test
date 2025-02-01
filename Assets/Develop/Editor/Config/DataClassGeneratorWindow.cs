@@ -2,8 +2,8 @@ using System.Linq;
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.Tools{
-    using nitou.EditorShared;
+namespace Nitou.Tools{
+    using Nitou.EditorShared;
     using System.IO;
 
     public class DataClassGeneratorWindow : EditorWindow{

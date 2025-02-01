@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.TweenPlayables
+namespace Nitou.TweenPlayables
 {
     public class TweenLineRendererMixerBehaviour : TweenAnimationMixerBehaviour<LineRenderer, TweenLineRendererBehaviour>
     {

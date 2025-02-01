@@ -3,8 +3,8 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.MaterialControl.EditorScript {
-    using nitou.EditorShared;
+namespace Nitou.MaterialControl.EditorScript {
+    using Nitou.EditorShared;
 
     /// <summary>
     /// <see cref="MaterialHandler"/>の継承クラスを自動生成するエディタウインドウ．

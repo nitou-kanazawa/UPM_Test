@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using UnityScreenNavigator.Runtime.Core.Sheet;
 
-namespace nitou.UI.PresentationFramework {
+namespace Nitou.UI.PresentationFramework {
 
     public abstract class SheetPresenter<TSheet, TRootView, TRootViewState> : SheetPresenter<TSheet>, IDisposableCollectionHolder
         where TSheet : Sheet<TRootView, TRootViewState>

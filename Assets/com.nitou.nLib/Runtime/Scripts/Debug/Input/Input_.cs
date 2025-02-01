@@ -3,7 +3,7 @@ using UnityEngine;
 
 // [TODO] 流石に雑すぎるのでもう少しユースケースを検討してから修正する (2024.08.01)
 
-namespace nitou{
+namespace Nitou{
 
     /// <summary>
     /// テストコード用の入力関数を提供する静的クラス

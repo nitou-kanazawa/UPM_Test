@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 角度計算の汎用メソッドを提供する静的クラス

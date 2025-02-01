@@ -1,5 +1,5 @@
 ﻿
-namespace nitou.Tools.Shared{
+namespace Nitou.Tools.Shared{
 
     /// <summary>
     /// パッケージの各種設定を管理する静的クラス

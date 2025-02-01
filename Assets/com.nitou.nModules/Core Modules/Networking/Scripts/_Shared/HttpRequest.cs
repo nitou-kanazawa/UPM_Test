@@ -1,5 +1,5 @@
 ﻿
-namespace nitou.Networking {
+namespace Nitou.Networking {
 
     /// <summary>
     /// リクエストの基底クラス

@@ -5,7 +5,7 @@ using UnityEngine;
 // [REF]
 //  qiita: 作りながら理解するUniRx https://qiita.com/mattak/items/106dfd0974653aa06fbc#5-observable
 
-namespace nitou.DesignPattern.Observer {
+namespace Nitou.DesignPattern.Observer {
 
     // 監視者
     public interface IObserver<T> {

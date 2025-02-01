@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou
+namespace Nitou
 {
     /// <summary>
     /// ログの分類．

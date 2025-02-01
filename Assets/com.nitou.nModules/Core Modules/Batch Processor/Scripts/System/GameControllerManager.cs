@@ -4,11 +4,11 @@ using UnityEngine;
 using UnityEngine.LowLevel;
 using UnityEngine.PlayerLoop;
 
-// [参考]
+// [REF]
 //  github: unity3d-jp/Project_TCC https://github.com/unity3d-jp/Project_TCC
 //  はなちる: PlayerLoopを使って毎フレーム実行される関数を追加する https://www.hanachiru-blog.com/entry/2021/08/23/120000
 
-namespace nitou.BachProcessor {
+namespace Nitou.BachProcessor {
 
     /// <summary>
     /// Adds callbacks to execute processing at arbitrary timings to MultiPhaseSingleton.

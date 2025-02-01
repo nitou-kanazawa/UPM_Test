@@ -6,7 +6,7 @@ using UnityEditor;
 // [参考]
 //  qiita: AssemblyDefinition.asmdefをスクリプトから作成する https://qiita.com/im0039kp/items/b6ebc1e07b04e5dd9dc1
 
-namespace nitou.Tools.Assets {
+namespace Nitou.Tools.Assets {
 
     public static class AssemblyDefinitionUtils {
 

@@ -1,5 +1,5 @@
 ﻿
-namespace nitou{
+namespace Nitou{
 
     /// <summary>
     /// Context Menu

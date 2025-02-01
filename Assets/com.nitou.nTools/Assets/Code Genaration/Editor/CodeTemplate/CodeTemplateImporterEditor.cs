@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEditor;
 using UnityEditor.AssetImporters;
 
-namespace nitou.Tools.CodeGeneration{
+namespace Nitou.Tools.CodeGeneration{
 
     [CustomEditor(typeof(CodeTemplateAsset))]
     public class CodeTemplateImporterEditor : Editor{

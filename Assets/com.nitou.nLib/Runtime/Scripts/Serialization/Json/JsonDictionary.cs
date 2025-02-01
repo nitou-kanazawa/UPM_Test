@@ -4,10 +4,10 @@ using System.Linq;
 using UnityEngine;
 using JetBrains.Annotations;
 
-// [参考]
+// [REF]
 //  コガネブログ: DictionaryをJsonUtilityで変換できるようにするクラス https://baba-s.hatenablog.com/entry/2020/11/20/080300
 
-namespace nitou.Serialization {
+namespace Nitou.Serialization {
 
     /// <summary>
     /// 

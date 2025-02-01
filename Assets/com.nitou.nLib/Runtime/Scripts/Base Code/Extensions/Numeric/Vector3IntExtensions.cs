@@ -4,7 +4,7 @@ using UnityEngine;
 // [参考]
 //  コガネブログ:　Vector3Intの代入を簡略化するDeconstruction　https://baba-s.hatenablog.com/entry/2019/09/03/230600
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Vector3Int"/>型の基本的な拡張メソッド集．

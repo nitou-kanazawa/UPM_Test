@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou.TweenPlayables {
+namespace Nitou.TweenPlayables {
 
     public static class EaseUtility {
         

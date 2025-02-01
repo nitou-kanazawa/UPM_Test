@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou.DebugInternal {
+namespace Nitou.DebugInternal {
     internal static partial class GizmoDrawer {
 
         /// <summary>

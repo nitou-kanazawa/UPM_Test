@@ -5,7 +5,7 @@ using UnityEngine.Timeline;
 using UnityEditor;
 using UnityEditor.Timeline;
 
-namespace nitou.TweenPlayables.Editor
+namespace Nitou.TweenPlayables.Editor
 {
     public abstract class TweenAnimationTrackEditor : TrackEditor
     {

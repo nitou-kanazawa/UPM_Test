@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace nitou{
+namespace Nitou{
 
     public interface ISmoothDampValue<TValue>
         where TValue : struct{

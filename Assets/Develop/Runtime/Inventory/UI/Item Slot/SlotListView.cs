@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UniRx;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI.View {
+namespace Nitou.UI.View {
 
     /// <summary>
     /// スロットを一覧表示するViewクラス

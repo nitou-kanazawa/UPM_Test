@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.Inspector {
+namespace Nitou.Inspector {
     internal abstract class RangeValueEditor : PropertyDrawer {
 
         protected static readonly GUIContent _minLabel = new ("min");

@@ -1,5 +1,5 @@
 ﻿
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// Inspector で頻繁に使用するキーワード集 (※あくまでタイプミス防止用)

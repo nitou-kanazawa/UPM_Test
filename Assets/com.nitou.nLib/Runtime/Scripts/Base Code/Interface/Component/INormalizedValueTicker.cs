@@ -1,5 +1,5 @@
 ﻿
-namespace nitou{
+namespace Nitou{
 
     /// <summary>
     /// 正規化された値 (0~1) に基づいて駆動するオブジェクト

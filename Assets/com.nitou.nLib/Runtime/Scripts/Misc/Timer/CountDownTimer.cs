@@ -7,7 +7,7 @@ using UnityEngine;
 //  qiita: UniRxでカウントダウンタイマーを作る https://qiita.com/toRisouP/items/581ffc0ddce7090b275b
 //  zenn: オレオレUniRxタイマー https://zenn.dev/keisuke114/scraps/5581b16d793806
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// カウントダウン方式のタイマー

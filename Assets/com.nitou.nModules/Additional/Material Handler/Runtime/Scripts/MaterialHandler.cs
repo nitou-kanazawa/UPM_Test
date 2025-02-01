@@ -6,7 +6,7 @@ using UnityEngine;
 //  UnityIndies: マテリアル、理解してないとすぐにメモリリーク https://www.create-forever.games/unity-material-memory-leak/
 //  Hatena: Renderer.materialで取得したマテリアルは自分で破棄しないとリークする話 https://light11.hatenadiary.com/entry/2019/11/03/223241
 
-namespace nitou.MaterialControl {
+namespace Nitou.MaterialControl {
 
     /// <summary>
     /// マテリアルのプロパティ操作用ラッパークラス．

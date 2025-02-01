@@ -1,7 +1,7 @@
 ﻿using System;
 using UniRx;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     /// <summary>
     /// 自作の基本コンポーネントであることを示すインターフェース

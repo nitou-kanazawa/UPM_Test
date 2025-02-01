@@ -6,7 +6,7 @@ using UnityEngine;
 //  qiita: Unityで学ぶデザインパターン08: Composite パターン https://qiita.com/Cova8bitdot/items/1c57d856027a33e99eb0
 //  qiita: Compositeパターン https://qiita.com/WestRiver/items/11c48ec3929322e296a7
 
-namespace nitou.DesignPattern.Demo {
+namespace Nitou.DesignPattern.Demo {
 
     public class Character {
         public void Heal(float amount) { }

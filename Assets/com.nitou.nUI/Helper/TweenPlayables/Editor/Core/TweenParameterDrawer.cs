@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.TweenPlayables.Editor
+namespace Nitou.TweenPlayables.Editor
 {
     [CustomPropertyDrawer(typeof(TweenParameter<>), true)]
     public class TweenParamterDrawer : PropertyDrawer

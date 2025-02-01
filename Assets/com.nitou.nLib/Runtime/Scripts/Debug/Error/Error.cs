@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
 
-// [参考]
+// [REF]
 //  hatena: 実は関数を呼び出すのにコストがかかってた？！ https://sat-box.hatenablog.jp/entry/2022/05/20/133607
 
-namespace nitou {
+namespace Nitou {
 
     public static class Error {
 

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 using UnityEditor.AssetImporters;
 
-namespace nitou.Tools.CodeGeneration{
+namespace Nitou.Tools.CodeGeneration{
 
     [ScriptedImporter(1, "cstmp")]   // ※バージョン番号と拡張子を指定
     public class CodeTemplateImporter : ScriptedImporter {

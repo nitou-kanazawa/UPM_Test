@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using UnityEngine;
 
-namespace nitou.Tools
+namespace Nitou.Tools
 {
     public static class CodeTemplate{
 

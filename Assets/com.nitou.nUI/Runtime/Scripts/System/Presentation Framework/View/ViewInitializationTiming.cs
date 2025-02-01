@@ -1,4 +1,4 @@
-﻿namespace nitou.UI.PresentationFramework {
+﻿namespace Nitou.UI.PresentationFramework {
     
     /// <summary>
     /// Viewの初期化タイミング

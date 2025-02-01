@@ -1,21 +1,21 @@
 ﻿using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
     public partial class Shapes {
 
         /// <summary>
-        /// 円柱の形状を表すインスタンス
+        /// 円柱の形状を表すインスタンス．
         /// </summary>
         [System.Serializable]
         public class Cylinder : Volume {
 
             /// <summary>
-            /// 半径
+            /// 半径．
             /// </summary>
             public float radius = 0.5f;
 
             /// <summary>
-            /// 高さ
+            /// 高さ．
             /// </summary>
             public float height = 1.5f;
 

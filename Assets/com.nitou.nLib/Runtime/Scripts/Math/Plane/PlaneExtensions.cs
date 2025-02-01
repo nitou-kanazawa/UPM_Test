@@ -4,7 +4,7 @@
 //  Document: Plane https://docs.unity3d.com/ja/2023.2/ScriptReference/Plane.html
 //  ねこじゃらシティ: 平面の計算を楽できるPlane構造体の使い方 https://nekojara.city/unity-plane-struct
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 平面．

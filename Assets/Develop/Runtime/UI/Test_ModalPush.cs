@@ -1,8 +1,8 @@
 using UnityEngine;
 using Cysharp.Threading.Tasks;
 using UnityScreenNavigator.Runtime.Core.Modal;
-using nitou;
-using nitou.UI;
+using Nitou;
+using Nitou.UI;
 using UnityScreenNavigator.Runtime.Foundation.Coroutine;
 
 namespace Project

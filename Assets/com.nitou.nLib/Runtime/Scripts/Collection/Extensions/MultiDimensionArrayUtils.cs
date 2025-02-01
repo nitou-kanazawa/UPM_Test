@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 // [TODO]　2年近くメンテナンスされてないので，動作検証から取り組む (2024.08.01)
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 配列に対する汎用機能を提供するライブラリ．

@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Linq;
 
-namespace nitou.Tools.ProjectWindow {
+namespace Nitou.Tools.ProjectWindow {
 
     /// <summary>
     /// フラグを定義しているクラス

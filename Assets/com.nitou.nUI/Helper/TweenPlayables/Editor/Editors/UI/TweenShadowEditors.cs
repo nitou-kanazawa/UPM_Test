@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEditor.Timeline;
 
-namespace nitou.TweenPlayables.Editor
+namespace Nitou.TweenPlayables.Editor
 {
     [CustomTimelineEditor(typeof(TweenShadowTrack))]
     public class TweenShadowTrackEditor : TweenAnimationTrackEditor

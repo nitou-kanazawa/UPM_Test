@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.SceneSystem{
+namespace Nitou.SceneSystem{
 
     public enum SceneType {
 

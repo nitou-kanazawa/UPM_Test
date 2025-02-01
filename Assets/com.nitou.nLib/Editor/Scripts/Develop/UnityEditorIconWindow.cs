@@ -9,7 +9,7 @@ using System.IO;
 // [参考]
 //  github : nukadelic/UnityEditorIcons https://github.com/nukadelic/UnityEditorIcons
 
-namespace nitou.Tools {
+namespace Nitou.Tools {
 
     public class UnityEditorIconWindow : EditorWindow {
 

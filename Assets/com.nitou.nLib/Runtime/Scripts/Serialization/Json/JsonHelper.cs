@@ -4,11 +4,11 @@ using System.IO;
 using System.Linq;
 using UnityEngine;
 
-// [参考]
+// [REF]
 //  PG日誌: JsonUtilityで配列とリストを処理する https://takap-tech.com/entry/2021/02/02/222406
 //  コガネブログ: DictionaryをJsonUtilityで変換できるようにするクラス https://baba-s.hatenablog.com/entry/2020/11/20/080300
 
-namespace nitou.Serialization {
+namespace Nitou.Serialization {
 
     /// <summary>
     /// <see cref="JsonUtility"/>に機能を追加した汎用メソッド集．
@@ -102,12 +102,12 @@ namespace nitou.Serialization {
 
 
         /// ----------------------------------------------------------------------------
-        [System.Serializable]
+        [Serializable]
         private class Wrapper<T> {
             public T[] items;
         }
 
-        [System.Serializable]
+        [Serializable]
         private class SerializableKeyValuePair<TKey, TValue> {
             public TKey Key;
             public TValue Value;

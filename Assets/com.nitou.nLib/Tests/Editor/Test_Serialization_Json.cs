@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using NUnit.Framework;
-using nitou.Serialization;
+using Nitou.Serialization;
 
-namespace nitou.Tests {
+namespace Nitou.Tests {
 
     public class Test_Serialization_Json {
 

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 using Sirenix.OdinInspector;
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
 
     /// <summary>
     /// Editorで参照するプロジェクト固有の設定データ．

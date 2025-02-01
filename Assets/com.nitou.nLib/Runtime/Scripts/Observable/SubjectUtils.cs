@@ -1,7 +1,7 @@
 ﻿using UniRx;
 using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Subject{T}"/>型の基本的な拡張メソッド集．

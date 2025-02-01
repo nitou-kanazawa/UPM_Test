@@ -7,7 +7,7 @@ using System.Collections.Generic;
 //  コガネブログ: 区切り文字にスラッシュを使用して指定したディレクトリ内のファイル名を返す関数 https://baba-s.hatenablog.com/entry/2015/07/29/100000
 //  _: C#ファイル／フォルダ操作術。すぐに使えるサンプルコード付き https://resanaplaza.com/2024/02/23/%E3%80%90%E5%AE%9F%E8%B7%B5%E3%80%91c%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%EF%BC%8F%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E6%93%8D%E4%BD%9C%E8%A1%93%E3%80%82%E3%81%99%E3%81%90%E3%81%AB%E4%BD%BF%E3%81%88/#google_vignette
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// ディレクトリ操作に関する汎用メソッド集．

@@ -2,8 +2,8 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.Tools.ProjectWindow {
-    using nitou.EditorShared;
+namespace Nitou.Tools.ProjectWindow {
+    using Nitou.EditorShared;
 
 
     public class FolderCreationWindow : EditorWindow {

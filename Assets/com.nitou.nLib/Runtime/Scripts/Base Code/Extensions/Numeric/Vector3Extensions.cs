@@ -7,7 +7,7 @@ using UnityEngine;
 //  PG日誌 : Vector3(構造体)に自分自身の値を変更する拡張メソッドを定義する https://takap-tech.com/entry/2022/12/24/175039
 //  コガネブログ:　Vector3 の代入を簡略化する Deconstruction　https://baba-s.hatenablog.com/entry/2019/09/03/230700
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Vector3"/>型の基本的な拡張メソッド集．

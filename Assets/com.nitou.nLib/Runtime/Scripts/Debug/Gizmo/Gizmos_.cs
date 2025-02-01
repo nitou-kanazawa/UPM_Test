@@ -1,13 +1,13 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-// [参考]
+// [REF]
 //  github: neuneu9/unity-gizmos-utility https://github.com/neuneu9/unity-gizmos-utility/blob/master/GizmosUtility.cs
 //  github: code-beans/GizmoExtensions https://github.com/code-beans/GizmoExtensions/blob/master/src/GizmosExtensions.cs
 
-namespace nitou {
-    using nitou.DebugInternal;
-    using ArrowType = nitou.DebugInternal.GizmoDrawer.Arrow.ArrowType;
+namespace Nitou {
+    using Nitou.DebugInternal;
+    using ArrowType = Nitou.DebugInternal.GizmoDrawer.Arrow.ArrowType;
 
     /// <summary>
     /// Gizmo描画に関する汎用機能を提供するライブラリ (※ファサードクラス)

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace nitou.DesignPattern.Observer {
+namespace Nitou.DesignPattern.Observer {
 
     // Nextの値によって通知するかしないかを変更する
     public class WhereObservable<T> : IObservable<T> {

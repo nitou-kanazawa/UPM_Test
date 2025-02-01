@@ -1,5 +1,5 @@
 ﻿
-namespace nitou.Tools.ProjectWindow {
+namespace Nitou.Tools.ProjectWindow {
 
     /// <summary>
     /// 

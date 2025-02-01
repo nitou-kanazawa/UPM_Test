@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.UI.Component {
+namespace Nitou.UI.Component {
 
     [CustomEditor(typeof(RadialLayoutGroup))]
     public class RadialLayoutGroupEditor : Editor {

@@ -6,7 +6,7 @@ using UnityEditor;
 //  qiita: Unity5のGUIクラスに追加されたScopeについて https://qiita.com/kyusyukeigo/items/4642ae85d6ff075acf31
 //  hatena: EditorWindowで使えるScope一覧 https://hacchi-man.hatenablog.com/entry/2019/12/20/002444
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
     public static partial class EditorUtil {
 
         /// ----------------------------------------------------------------------------

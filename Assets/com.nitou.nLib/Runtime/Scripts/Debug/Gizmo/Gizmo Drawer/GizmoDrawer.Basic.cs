@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using nitou.DesignPattern.Pooling;
+using Nitou.DesignPattern.Pooling;
 
-namespace nitou.DebugInternal {
+namespace Nitou.DebugInternal {
     internal static partial class GizmoDrawer{
 
         /// <summary>

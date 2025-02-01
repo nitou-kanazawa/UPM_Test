@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 画面の周囲（スクリーンのパディング領域）のマウスやタッチ操作を防止するための構造体
@@ -54,7 +54,7 @@ namespace nitou {
 
 
 #if UNITY_EDITOR
-namespace nitou.EditorScripts {
+namespace Nitou.EditorScripts {
     using UnityEditor;
 
     /*

@@ -2,8 +2,8 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.Tools.Hierarchy.EditorSctipts {
-    using nitou.EditorShared;
+namespace Nitou.Tools.Hierarchy.EditorSctipts {
+    using Nitou.EditorShared;
 
     /// <summary>
     /// ヒエラルキードロワーの基底クラス

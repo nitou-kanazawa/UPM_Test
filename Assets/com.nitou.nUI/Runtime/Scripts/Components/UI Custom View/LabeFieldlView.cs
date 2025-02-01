@@ -2,7 +2,7 @@
 using TMPro;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI.Component{
+namespace Nitou.UI.Component{
 
     /// <summary>
     /// シンプルなラベルと本文を持つView

@@ -2,7 +2,7 @@
 using System.Text.RegularExpressions;
 using UnityEngine;
 
-namespace nitou.RichText {
+namespace Nitou.RichText {
 
     /// <summary>
     /// XML文字列にRichTextタグを挿入する

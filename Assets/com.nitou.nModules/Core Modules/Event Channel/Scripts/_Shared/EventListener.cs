@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou.EventChannel.Shared {
+namespace Nitou.EventChannel.Shared {
 
 
     /// <summary>

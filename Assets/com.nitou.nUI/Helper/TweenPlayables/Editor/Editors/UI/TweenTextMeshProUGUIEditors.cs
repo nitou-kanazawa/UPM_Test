@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEditor.Timeline;
 using TMPro;
 
-namespace nitou.TweenPlayables.Editor
+namespace Nitou.TweenPlayables.Editor
 {
     [CustomTimelineEditor(typeof(TweenTextMeshProUGUITrack))]
     public class TweenTextMeshProUGUITrackEditor : TweenAnimationTrackEditor

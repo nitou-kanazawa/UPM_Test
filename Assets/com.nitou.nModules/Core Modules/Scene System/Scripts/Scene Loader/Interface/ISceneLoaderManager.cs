@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou
+namespace Nitou
 {
     public class ISceneLoaderManager : MonoBehaviour
     {

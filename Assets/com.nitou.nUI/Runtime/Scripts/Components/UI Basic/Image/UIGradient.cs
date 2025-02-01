@@ -7,7 +7,7 @@ using System;
 // [参考]
 //  zenn: uGUIのImageにBaseMeshEffectでグラデーションをかけてみる https://zenn.dev/happy_elements/articles/44cded89f622d7
 
-namespace nitou.UI {
+namespace Nitou.UI {
 
     [AddComponentMenu(ComponentMenu.Prefix.UIComponents + "Gradient")]
     public class UIGradient : BaseMeshEffect {

@@ -6,7 +6,7 @@ using UniRx;
 // [REF]
 //  github: ReactiveCollection.cs https://github.com/neuecc/UniRx/blob/master/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ReactiveCollection.cs#L40
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 配列の要素の変更や移動をリアクティブに監視できる ReactiveArray クラス

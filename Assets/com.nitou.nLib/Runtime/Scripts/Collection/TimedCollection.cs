@@ -5,7 +5,7 @@ using Cysharp.Threading.Tasks;
 using System.Threading;
 using UniRx;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 一定時間経過した要素を削除するコレクション

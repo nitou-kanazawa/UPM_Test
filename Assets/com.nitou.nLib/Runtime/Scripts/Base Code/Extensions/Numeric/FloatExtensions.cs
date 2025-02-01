@@ -4,7 +4,7 @@ using UnityEngine;
 // [REF]
 //  ホトトギス通信: UnityEngine.MathfとSystem.Mathどっちを使うのが良い？という話 https://shibuya24.info/entry/unity-csharp-mathf
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="float"/>型の基本的な拡張メソッド集．

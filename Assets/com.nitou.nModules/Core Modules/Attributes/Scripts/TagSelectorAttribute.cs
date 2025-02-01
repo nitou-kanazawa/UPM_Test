@@ -10,7 +10,7 @@ using Sirenix.OdinInspector.Editor;
 //  odin: https://www.odininspector.com/documentation/sirenix.odininspector.editor.odinattributedrawer-1
 //  Using tags as a dropdown property in Unity’s inspector using PropertyDrawers https://www.brechtos.com/tagselectorattribute/
 
-namespace nitou.Inspector {
+namespace Nitou.Inspector {
 
     /// <summary>
     /// タグ選択用のドロップダウンを表示するインスペクタ属性．

@@ -2,7 +2,7 @@
 using UniRx;
 using UnityEngine.UI;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Toggle"/>型の基本的な拡張メソッド集．

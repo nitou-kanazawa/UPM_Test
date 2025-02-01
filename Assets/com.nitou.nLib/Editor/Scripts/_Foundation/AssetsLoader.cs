@@ -5,8 +5,8 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.EditorShared {
-    using nitou.Shared;
+namespace Nitou.EditorShared {
+    using Nitou.Shared;
 
     /// <summary>
     /// <see cref="Resources"/>ライクに非Resourcesフォルダのアセットを読み込むためのクラス（※AssetDatabaseのラッパー）

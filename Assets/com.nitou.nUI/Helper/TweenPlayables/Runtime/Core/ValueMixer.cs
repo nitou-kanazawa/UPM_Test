@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using TMPro;
 
-namespace nitou.TweenPlayables {
+namespace Nitou.TweenPlayables {
 
     public abstract class ValueMixer<T> {
         

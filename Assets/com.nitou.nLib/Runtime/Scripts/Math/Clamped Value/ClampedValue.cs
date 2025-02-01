@@ -7,7 +7,7 @@ using UnityEditor;
 //  _: フィールドの値などをインスペクタで横に並べて表示する   http://fantom1x.blog130.fc2.com/blog-entry-419.html
 //  LIGHT11: Serializableなクラスにはデフォルトコンストラクタを忘れずつけようという話 https://light11.hatenadiary.com/entry/2022/12/26/191200
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 最大、最小の範囲に制限される値．
@@ -57,7 +57,7 @@ namespace nitou {
 
 /// ----------------------------------------------------------------------------
 #if UNITY_EDITOR
-namespace nitou.Inspector {
+namespace Nitou.Inspector {
 
     [CustomPropertyDrawer(typeof(ClampedValue))]
     internal sealed class ClampedValueEditor : PropertyDrawer {

@@ -1,6 +1,6 @@
 ﻿using Cysharp.Threading.Tasks;
 
-namespace nitou.SceneSystem{
+namespace Nitou.SceneSystem{
 
     /// <summary>
     /// 各シーンに配置する起点オブジェクト

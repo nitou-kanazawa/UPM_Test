@@ -6,7 +6,7 @@ using System.Linq;
 //  コガネブログ: 配列やリストの分解代入を可能にする Deconstruct https://baba-s.hatenablog.com/entry/2019/09/12/085000#google_vignette
 //  StackOverflow: Does C# 7 have array/enumerable destructuring? https://stackoverflow.com/questions/47815660/does-c-sharp-7-have-array-enumerable-destructuring
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="List{T}"/>型の基本的な拡張メソッド集．

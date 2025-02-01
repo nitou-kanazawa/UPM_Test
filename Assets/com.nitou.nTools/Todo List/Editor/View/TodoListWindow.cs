@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.Tools.TodoTask {
+namespace Nitou.Tools.TodoTask {
 
     public class TodoListWindow : EditorWindow {
         

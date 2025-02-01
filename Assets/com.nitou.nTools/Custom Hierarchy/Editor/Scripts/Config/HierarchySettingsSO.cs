@@ -2,8 +2,8 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.Tools.Hierarchy{
-    using nitou.EditorShared;
+namespace Nitou.Tools.Hierarchy{
+    using Nitou.EditorShared;
 
     /// <summary>
     /// Editorで参照するプロジェクト固有の設定データ

@@ -4,7 +4,7 @@ using System.ComponentModel;
 using UnityEngine.UI;
 using UnityEngine.Timeline;
 
-namespace nitou.TweenPlayables
+namespace Nitou.TweenPlayables
 {
     [TrackBindingType(typeof(Graphic))]
     [TrackClipType(typeof(TweenGraphicClip))]

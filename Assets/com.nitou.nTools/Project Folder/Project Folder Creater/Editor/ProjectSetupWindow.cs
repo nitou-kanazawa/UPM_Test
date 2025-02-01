@@ -1,8 +1,8 @@
 ﻿using UnityEditor;
 using UnityEngine;
-using nitou.Tools.ProjectWindow;
+using Nitou.Tools.ProjectWindow;
 
-namespace nitou.Tools.ProjectWindow {
+namespace Nitou.Tools.ProjectWindow {
 
 
     public class ProjectSetupWindow : EditorWindow {

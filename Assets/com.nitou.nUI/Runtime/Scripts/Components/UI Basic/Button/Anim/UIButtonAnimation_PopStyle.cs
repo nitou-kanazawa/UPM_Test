@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using DG.Tweening;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     [DisallowMultipleComponent]
     public class UIButtonAnimation_PopStyle : UIButtonAnimationBase {

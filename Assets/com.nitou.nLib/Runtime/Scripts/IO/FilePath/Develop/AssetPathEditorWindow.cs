@@ -2,8 +2,8 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.EditorScripts{
-    using nitou.EditorShared;
+namespace Nitou.EditorScripts{
+    using Nitou.EditorShared;
 
     internal sealed class AssetPathEditorWindow : EditorWindow , IDevelopEditorWindow{
         

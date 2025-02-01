@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou{
+namespace Nitou{
 
     /// <summary>
     /// 識別可能なオブジェクト．

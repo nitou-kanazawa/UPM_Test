@@ -5,8 +5,8 @@ using System;
 using System.Threading;
 using Cysharp.Threading.Tasks;
 using UniRx;
-using nitou;
-using nitou.UI;
+using Nitou;
+using Nitou.UI;
 using UniRx.Diagnostics;
 
 // [REF]

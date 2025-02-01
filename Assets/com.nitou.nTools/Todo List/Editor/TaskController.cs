@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace nitou.Tools.TodoTask{
+namespace Nitou.Tools.TodoTask{
 
     public class TaskController {
         

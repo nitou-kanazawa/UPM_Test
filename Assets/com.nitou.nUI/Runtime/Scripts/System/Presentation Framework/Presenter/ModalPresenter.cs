@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using UnityScreenNavigator.Runtime.Core.Modal;
 
-namespace nitou.UI.PresentationFramework {
+namespace Nitou.UI.PresentationFramework {
 
     public abstract class ModalPresenter<TModal, TRootView, TRootViewState> : ModalPresenter<TModal>, IDisposableCollectionHolder
         where TModal : Modal<TRootView, TRootViewState>

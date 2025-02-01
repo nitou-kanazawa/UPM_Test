@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.Tools.CodeGeneration{
+namespace Nitou.Tools.CodeGeneration{
 
     /// <summary>
     /// ".cstmp"形式のスクリプトテンプレート

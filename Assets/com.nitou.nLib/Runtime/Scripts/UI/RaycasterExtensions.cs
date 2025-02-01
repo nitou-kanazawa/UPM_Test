@@ -4,8 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-namespace nitou{
-    using nitou.DesignPattern.Pooling;
+namespace Nitou{
+    using Nitou.DesignPattern.Pooling;
 
     /// <summary>
     /// Raycaster関連の基本的な拡張メソッド集

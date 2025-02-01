@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using UnityScreenNavigator.Runtime.Core.Page;
 
-namespace nitou.UI.PresentationFramework {
+namespace Nitou.UI.PresentationFramework {
 
     public abstract class PagePresenter<TPage, TRootView, TRootViewState> : PagePresenter<TPage>, 
         IDisposableCollectionHolder

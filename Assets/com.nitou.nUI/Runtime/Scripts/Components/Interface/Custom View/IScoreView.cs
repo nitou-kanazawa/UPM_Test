@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     /// <summary>
     /// UI interface with score indication.

@@ -5,7 +5,7 @@ using System.Threading;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 
-namespace nitou.DesignPattern {
+namespace Nitou.DesignPattern {
 
     public partial class AwaitableStateMachine<TContext, TEvent> {
 

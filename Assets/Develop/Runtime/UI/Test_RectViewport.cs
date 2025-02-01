@@ -1,6 +1,6 @@
 using UnityEngine;
 using TMPro;
-using nitou;
+using Nitou;
 
 namespace Project
 {

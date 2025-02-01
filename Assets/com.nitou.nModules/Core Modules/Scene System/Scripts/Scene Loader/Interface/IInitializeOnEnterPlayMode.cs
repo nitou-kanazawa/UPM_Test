@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.SceneSystem{
+namespace Nitou.SceneSystem{
 
     /// <summary>
     /// Interface to perform processing in EnterPlayMode.

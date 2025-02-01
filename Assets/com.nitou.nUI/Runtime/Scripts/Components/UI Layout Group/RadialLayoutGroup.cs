@@ -6,7 +6,7 @@ using UnityEngine.UI;
 //  コガネブログ: uGUI で円形のレイアウトを使用できる「UnityRadialLayoutGroup」紹介 https://baba-s.hatenablog.com/entry/2020/02/26/090000
 //  github: aillieo/UnityRadialLayoutGroup https://github.com/aillieo/UnityRadialLayoutGroup/tree/master
 
-namespace nitou.UI.Component {
+namespace Nitou.UI.Component {
 
     [AddComponentMenu(ComponentMenu.Prefix.Layout + "Radial Layout Group")]
     [DisallowMultipleComponent]

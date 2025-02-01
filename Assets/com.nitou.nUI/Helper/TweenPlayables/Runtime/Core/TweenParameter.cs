@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-namespace nitou.TweenPlayables {
+namespace Nitou.TweenPlayables {
     public abstract class TweenParameter<T> {
         public bool active;
         public T startValue;

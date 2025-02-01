@@ -7,7 +7,7 @@ using System.Text;
 // [参考]
 //  PG日誌: 放置ゲームやクリッカーゲームに出てくる単位を表現する https://takap-tech.com/entry/2023/03/25/235545
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 単位を管理するクラス

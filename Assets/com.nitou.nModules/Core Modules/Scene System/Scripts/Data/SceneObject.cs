@@ -7,7 +7,7 @@ using UnityEditor;
 // [参考]
 // 　コガネブログ: Inspector で変数にシーンファイルを設定できるようにする「SceneObject」 https://baba-s.hatenablog.com/entry/2017/11/14/110000
 
-namespace nitou.SceneSystem {
+namespace Nitou.SceneSystem {
 
     /// <summary>
     /// インスペクターでシーンファイルを設定できるようにするためのクラス
@@ -30,7 +30,7 @@ namespace nitou.SceneSystem {
 
 /// ----------------------------------------------------------------------------
 #if UNITY_EDITOR
-namespace nitou.SceneSystem.EditorScripts {
+namespace Nitou.SceneSystem.EditorScripts {
 
     [CustomPropertyDrawer(typeof(SceneObject))]
     internal class SceneObjectEditor : PropertyDrawer {

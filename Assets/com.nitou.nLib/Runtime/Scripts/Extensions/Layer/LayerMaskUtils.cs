@@ -4,7 +4,7 @@
 //  _: UnityでLayerMaskを操作する方法色々 https://12px.com/blog/2021/11/layermask/
 //  Hatena: 物理演算、衝突判定、コライダーの検出などで使うLayerMaskについて https://indie-game-creation-with-unity.hatenablog.com/entry/layer-mask
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="LayerMask"/>型を対象とした汎用メソッド集．

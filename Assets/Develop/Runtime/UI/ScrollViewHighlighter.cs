@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Sirenix.OdinInspector;
 
-namespace nitou {
+namespace Nitou {
     
     public class ScrollViewHighlighter : MonoBehaviour {
 

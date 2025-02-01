@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-namespace nitou.DebugInternal{
+namespace Nitou.DebugInternal{
 
     /// <summary>
     /// <see cref="ScrollRect"/>の各プロパティを可視化するためのデバッグ用コンポーネント

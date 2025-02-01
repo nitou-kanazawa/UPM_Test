@@ -6,7 +6,7 @@ using System.Linq;
 // [参考]
 //  コガネブログ: 指定された文字列が電話番号かどうかを返す関数 https://baba-s.hatenablog.com/entry/2014/11/10/110048
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="string"/>型の基本的な拡張メソッド集

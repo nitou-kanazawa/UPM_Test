@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using Sirenix.OdinInspector;
 
-namespace nitou.SceneSystem {
+namespace Nitou.SceneSystem {
     //using nitou.Sound;
 
     /// <summary>

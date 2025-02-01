@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou.Tools.Assets {
+namespace Nitou.Tools.Assets {
 
     /// <summary>
     /// Assembly Definition Reference（.asmref）のJSONを表すクラス

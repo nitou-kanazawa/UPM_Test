@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.EditorScripts {
+namespace Nitou.EditorScripts {
 
 	// デモ表示用のエディタウインドウ
 	public class DemoEditorWindow : EditorWindow {

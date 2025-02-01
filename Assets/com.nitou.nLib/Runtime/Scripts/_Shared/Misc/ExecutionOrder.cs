@@ -3,7 +3,7 @@
 //  ねこじゃらシティ: スクリプトの実行順序を制御する https://nekojara.city/unity-script-execution-order
 //  テラシュール: コンポーネントのイベント実行順についてのTips https://tsubakit1.hateblo.jp/entry/2017/02/05/003714
 
-namespace nitou {
+namespace Nitou {
 
     public static partial class GameConfigs{
 

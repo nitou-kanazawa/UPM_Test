@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace nitou {
+namespace Nitou {
     
     /// <summary>
     /// <see cref="Type"/>型に対する汎用メソッド集

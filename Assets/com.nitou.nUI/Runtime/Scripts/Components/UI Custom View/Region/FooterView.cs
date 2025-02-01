@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     public class FooterView : ContentView {
 

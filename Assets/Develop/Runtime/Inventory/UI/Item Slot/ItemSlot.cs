@@ -9,7 +9,7 @@ using Sirenix.OdinInspector;
 // [参考]
 //  Unity Comunity: How to detect interactable state change in selectable objects (Buttons, etc.) https://discussions.unity.com/t/how-to-detect-interactable-state-change-in-selectable-objects-buttons-etc/150644
 
-namespace nitou.UI.View {
+namespace Nitou.UI.View {
 
     /// <summary>
     /// アイテムを表示するためのスロットView．

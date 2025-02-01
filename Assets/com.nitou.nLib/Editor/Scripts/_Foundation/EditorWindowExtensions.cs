@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.EditorScripts{
+namespace Nitou.EditorScripts{
 
     /// <summary>
     /// <see cref="EditorWindow"/>の基本的な拡張メソッド集

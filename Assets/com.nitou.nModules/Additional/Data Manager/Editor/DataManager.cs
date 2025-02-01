@@ -6,7 +6,7 @@ using Sirenix.OdinInspector.Editor;
 // [REF]
 //  youtube: Data Manager - Scriptable Object Editor Window https://www.youtube.com/watch?v=1zu41Ku46xU&t=23s
 
-namespace nitou.DataManagement {
+namespace Nitou.DataManagement {
 
     /// <summary>
     /// "ManageableDataAttribute"を付与したScriptableObjectを編集するエディタウインドウ

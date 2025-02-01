@@ -1,5 +1,5 @@
 ﻿
-namespace nitou.GameSystem {
+namespace Nitou.GameSystem {
 
     /// <summary>
     /// 結果データの基底クラス

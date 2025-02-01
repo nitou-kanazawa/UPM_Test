@@ -9,7 +9,7 @@ using UnityEditor;
 //  qiita: Generics のメソッドで型情報を取得する https://qiita.com/TsuyoshiUshio@github/items/7b9544fbc338af5807f5
 //  github: somedeveloper00/SingletonScriptableObject https://github.com/somedeveloper00/SingletonScriptableObject/blob/master/Runtime/src/Sample.cs
 
-namespace nitou.DesignPattern.Singltons {
+namespace Nitou.DesignPattern.Singltons {
 
     /// <summary>
     /// ScriptableObjectを継承したシングルトン

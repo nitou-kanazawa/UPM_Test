@@ -7,7 +7,7 @@ using UnityEngine;
 //  _: TextMeshProのリッチテキストタグ一覧 https://madnesslabo.net/utage/?page_id=12903
 //  _: TextMeshPro で使えるリッチテキストタグまとめ https://www.midnightunity.net/textmeshpro-richtext-tags/#google_vignette
 
-namespace nitou.RichText {
+namespace Nitou.RichText {
 
     /// <summary>
     /// 文字列をリッチテキストへ変換する拡張メソッド集

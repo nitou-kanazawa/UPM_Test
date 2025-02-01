@@ -1,5 +1,5 @@
 ﻿
-namespace nitou.UI.Shared{
+namespace Nitou.UI.Shared{
 
     /// <summary>
     /// パッケージの各種設定を管理する静的クラス．

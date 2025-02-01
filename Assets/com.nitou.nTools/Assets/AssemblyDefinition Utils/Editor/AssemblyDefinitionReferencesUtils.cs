@@ -5,8 +5,8 @@ using System.Text;
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.Tools.Assets {
-    using nitou.NaturalLanguage;
+namespace Nitou.Tools.Assets {
+    using Nitou.NaturalLanguage;
 
     /// <summary>
     /// 

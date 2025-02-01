@@ -5,7 +5,7 @@ using UnityEngine;
 // [参考]
 //  kanのメモ帳: 複数のAnimationCurveの波形をブレンド(合成)して使う BlendAnimationCurve https://kan-kikuchi.hatenablog.com/entry/BlendAnimationCurve
 
-namespace nitou {
+namespace Nitou {
 
     [System.Serializable]
     public class BlendAnimationCurve{

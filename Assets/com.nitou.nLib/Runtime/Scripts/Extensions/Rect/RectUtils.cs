@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Rect"/>に関する汎用メソッド集

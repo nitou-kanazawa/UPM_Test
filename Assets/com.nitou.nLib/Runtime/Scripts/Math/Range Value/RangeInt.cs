@@ -3,7 +3,7 @@
 using UnityEditor;
 #endif
 
-namespace nitou{
+namespace Nitou{
 
     /// <summary>
     /// <see cref="int"/>型で範囲を表す構造体．
@@ -64,7 +64,7 @@ namespace nitou{
 
 
 #if UNITY_EDITOR
-namespace nitou.Inspector {
+namespace Nitou.Inspector {
     
     [CustomPropertyDrawer(typeof(RangeInt))]
     internal class RangeIntEditor : RangeValueEditor {

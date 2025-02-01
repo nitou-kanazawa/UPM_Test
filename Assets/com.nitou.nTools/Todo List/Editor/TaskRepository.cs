@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEditor;
 using System.Collections.Generic;
 
-namespace nitou.Tools.TodoTask {
+namespace Nitou.Tools.TodoTask {
 
     /// <summary>
     /// <see cref="TodoTask"/>のコンテナ

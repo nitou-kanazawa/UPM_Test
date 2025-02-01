@@ -6,11 +6,11 @@ using TMPro;
 using UniRx;
 using Sirenix.OdinInspector;
 
-using ItemSlotData = nitou.UI.View.ItemSlot.ItemSlotData;
+using ItemSlotData = Nitou.UI.View.ItemSlot.ItemSlotData;
 
 
 
-namespace nitou.UI.View {
+namespace Nitou.UI.View {
 
     /// <summary>
     /// ItemSlot‚ÌƒŠƒXƒg‚ð•\Ž¦‚·‚éView

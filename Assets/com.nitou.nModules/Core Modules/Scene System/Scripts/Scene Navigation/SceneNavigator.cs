@@ -12,7 +12,7 @@ using UnityEngine.SceneManagement;
 //  コガネブログ: 現在読み込まれているすべてのシーンを取得する関数 https://baba-s.hatenablog.com/entry/2022/11/28/162103
 //  qiita: シーンの重複読み込みをLINQで防ぐ https://qiita.com/segur/items/b13045e6f3a9949e0503
 
-namespace nitou.SceneSystem {
+namespace Nitou.SceneSystem {
 
     /// <summary>
     /// EntryPoint関連の処理を追加したSceneManagerのラップクラス

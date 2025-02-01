@@ -6,7 +6,7 @@ using UnityEngine;
 // [参考]
 //  unity doqument: 起動時エディタースクリプト実行 https://docs.unity3d.com/ja/2019.4/Manual/RunningEditorCodeOnLaunch.html
 
-namespace nitou.Tools.ProjectWindow {
+namespace Nitou.Tools.ProjectWindow {
 
     [InitializeOnLoad]
     internal class CustomFolder{

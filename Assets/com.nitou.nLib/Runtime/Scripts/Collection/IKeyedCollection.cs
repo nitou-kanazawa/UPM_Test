@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace nitou { 
+namespace Nitou { 
 
     /// <summary>
     /// 

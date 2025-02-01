@@ -1,5 +1,5 @@
 
-namespace nitou.InventorySystem{
+namespace Nitou.InventorySystem{
 
     /// <summary>
     /// アイテムを表すインターフェース．

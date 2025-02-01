@@ -6,7 +6,7 @@ using UnityEditor;
 // [参考]
 //  Hatena: 最小と最大の値を管理する構造体を作りたいの https://www.urablog.xyz/entry/2017/06/14/094730
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 範囲を<see cref="float"/>型で表す構造体
@@ -123,7 +123,7 @@ namespace nitou {
 
 
 #if UNITY_EDITOR
-namespace nitou.Inspector { 
+namespace Nitou.Inspector { 
     
     [CustomPropertyDrawer(typeof(RangeFloat))]
     internal class RangeFloatEditor : RangeValueEditor {

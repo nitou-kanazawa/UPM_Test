@@ -3,7 +3,7 @@
 // [REF]
 //  コガネブログ: DateTime を代入する時の記述を簡略化する Deconstruction https://baba-s.hatenablog.com/entry/2019/09/03/230400
 
-namespace nitou
+namespace Nitou
 {
     /// <summary>
     /// <see cref="DateTime"/>型に対する汎用的な拡張メソッド集．

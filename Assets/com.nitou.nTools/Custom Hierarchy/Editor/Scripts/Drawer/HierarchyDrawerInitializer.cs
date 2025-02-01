@@ -7,7 +7,7 @@ using UnityEditor;
 //  hatena: TypeCacheを使って指定したアトリビュートが付いている型を高速に取得する https://light11.hatenadiary.com/entry/2021/04/26/202054
 //  はなちる: TypeCacheを用いて"特定の属性でマークされている型やメソッド" や "特定のクラスやインターフェイスから派生する型"に素早くアクセスする https://www.hanachiru-blog.com/entry/2023/12/08/120000
 
-namespace nitou.Tools.Hierarchy.EditorSctipts {
+namespace Nitou.Tools.Hierarchy.EditorSctipts {
 
     internal static class HierarchyDrawerInitializer {
 

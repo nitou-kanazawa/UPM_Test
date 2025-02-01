@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Camera"/>型を対象とした汎用メソッド集．

@@ -5,7 +5,7 @@
 //  github: ciwolsey/ScriptableObjectSingleton.cs https://gist.github.com/ciwolsey/3bd0189a8bbc76e3f7242b51473ff3f6
 //  _: シングルトンなScriptableObjectを実装する https://mackysoft.net/singleton-scriptableobject/
 
-namespace nitou.DesignPattern.Singltons {
+namespace Nitou.DesignPattern.Singltons {
 
     /// <summary>
     /// グローバルアクセスを持つシングルトンのScriptable Object

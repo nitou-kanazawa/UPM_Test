@@ -6,8 +6,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI.BasicScreens {
-    using nitou.UI.Components;
+namespace Nitou.UI.BasicScreens {
+    using Nitou.UI.Components;
 
     /// <summary>
     /// ２選択肢の確認モーダル

@@ -6,8 +6,8 @@ using System.IO;
 // [参考]
 //  qiita: 毎回使う複数のフォルダをワンクリックで作成する方法 https://qiita.com/OKsaiyowa/items/f7b2d331526e2a6938b1
 
-namespace nitou.Tools.ProjectWindow {
-    using nitou.EditorShared;
+namespace Nitou.Tools.ProjectWindow {
+    using Nitou.EditorShared;
 
     /// <summary>
     /// 指定フォルダ直下に空フォルダを生成する

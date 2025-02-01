@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using nitou;
+using Nitou;
 
 // [参考]
 //  ねこじゃらシティ: RectTransformのサイズをスクリプトから変更する https://nekojara.city/unity-rect-transform-size

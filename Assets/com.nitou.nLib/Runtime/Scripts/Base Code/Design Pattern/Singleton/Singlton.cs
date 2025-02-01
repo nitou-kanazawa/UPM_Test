@@ -5,7 +5,7 @@
 //  Zonn: シングルトンパターン（Singleton Pattern） https://zenn.dev/twugo/books/21cb3a6515e7b8/viewer/c52658
 //  Qiita: Unityで学ぶデザインパターン05: Singleton パターン【デザパタ】https://qiita.com/Cova8bitdot/items/29b7064c7472a6f34972
 
-namespace nitou.DesignPattern.Singltons {
+namespace Nitou.DesignPattern.Singltons {
 
     /// <summary>
     /// シンプルなシングルトン (※実装サンプル)

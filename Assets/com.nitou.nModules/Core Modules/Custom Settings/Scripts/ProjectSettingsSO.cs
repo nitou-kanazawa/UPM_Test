@@ -1,23 +1,28 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using Sirenix.OdinInspector;
 
-// [参考]
+// [REF]
 //  qiita: Unityで独自の設定のUIを提供できるSettingsProviderの紹介と設定ファイルの保存について https://qiita.com/sune2/items/a88cdee6e9a86652137c
 
-namespace nitou.Settings {
+namespace Nitou.Settings {
 
     /// <summary>
-    /// Runtimeで参照するプロジェクト固有の設定データ
+    /// Runtimeで参照するプロジェクト固有の設定データ．
     /// </summary>
-    public class ProjectSettingsSO : ScriptableObject {
+    public sealed class ProjectSettingsSO : ScriptableObject {
 
         #region Singleton
         private static ProjectSettingsSO _instance;
         public static ProjectSettingsSO Instance {
             get {
-                if (_instance == null) {
+                // [NOTE] Resources直下にクラス名と同名で配置されている必要がある．
+                if (_instance == null)
                     _instance = Resources.Load<ProjectSettingsSO>(nameof(ProjectSettingsSO));
-                }
+
+                if (_instance == null)
+                    throw new InvalidOperationException($"{nameof(ProjectSettingsSO)} could not be loaded from the Resources folder. Please ensure it is properly placed.");
+
                 return _instance;
             }
         }
@@ -31,8 +36,6 @@ namespace nitou.Settings {
         [Indent] public string text;
 
         [Title("UI")]
-
-        [Indent] public bool s;
 
         [SerializeField] Vector2 _referenceResolution = new Vector2(1920, 1080);
         

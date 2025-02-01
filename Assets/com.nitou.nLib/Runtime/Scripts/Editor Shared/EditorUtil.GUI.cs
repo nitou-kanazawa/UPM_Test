@@ -8,7 +8,7 @@ using UnityEditor.AnimatedValues;
 //  _: 編集不可のパラメータをInspectorに表示する https://kazupon.org/unity-no-edit-param-view-inspector/
 //  Hatena: インデント付きでGUI.Buttonを表示する https://neptaco.hatenablog.jp/entry/2019/05/18/234426
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
     public static partial class EditorUtil {
 
         /// <summary>

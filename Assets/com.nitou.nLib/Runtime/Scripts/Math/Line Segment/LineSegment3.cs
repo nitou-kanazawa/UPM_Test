@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 線分を表す構造体．

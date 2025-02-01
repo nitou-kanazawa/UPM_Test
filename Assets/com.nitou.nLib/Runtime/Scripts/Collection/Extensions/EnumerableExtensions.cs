@@ -8,7 +8,7 @@ using System.Text;
 //  qiita: .NET 9でLINQに追加されたメソッド https://qiita.com/RyotaMurohoshi/items/595b87e1db93768d0d44
 // _: IEnumerable.IsNullOrEmpty https://csharpvbcomparer.blogspot.com/2014/04/tips-ienumerable-isnullorempty.html
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="IEnumerable"/>型の基本的な拡張メソッド集

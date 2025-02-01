@@ -6,7 +6,7 @@ using UnityEditor;
 // [参考]
 //  コガネブログ: https://baba-s.hatenablog.com/entry/2015/04/26/120413#google_vignette
 
-namespace nitou.EditorScripts.Internal {
+namespace Nitou.EditorScripts.Internal {
 
     public class ExampleClass : EditorWindow {
 

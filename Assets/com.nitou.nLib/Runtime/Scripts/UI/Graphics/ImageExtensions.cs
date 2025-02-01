@@ -5,7 +5,7 @@ using UnityEngine.UI;
 //  _: Image クラスの拡張メソッド https://kazupon.org/unity-image-extension/
 //  _: 2DRPG開発日誌 #79 ImageのFill方向をスクリプトから変更する https://kitty-pool.com/ss079/
 
-namespace nitou{
+namespace Nitou{
 
     /// <summary>
     /// <see cref="Image"/>型の基本的な拡張メソッド集．

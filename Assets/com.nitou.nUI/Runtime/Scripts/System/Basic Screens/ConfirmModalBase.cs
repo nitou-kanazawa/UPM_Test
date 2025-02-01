@@ -4,7 +4,7 @@ using TMPro;
 using UnityScreenNavigator.Runtime.Core.Modal;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI.BasicScreens {
+namespace Nitou.UI.BasicScreens {
 
     /// <summary>
     /// 確認モーダルの基底クラス．

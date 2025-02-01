@@ -7,7 +7,7 @@ using System.Threading;
 //  github: Sinoa/ImtStateMachine https://github.com/Sinoa/ImtStateMachine
 //  qiita: ステートマシン実装の決定版ImtStateMachineについて語り尽くす https://qiita.com/BelColo/items/a94c9ccc2d5174dc29a3
 
-namespace nitou.DesignPattern {
+namespace Nitou.DesignPattern {
 
     /// <summary>
     /// ステートマシンの更新処理中に発生した、未処理の例外をどう振る舞うかを表現した列挙型

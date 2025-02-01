@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityScreenNavigator.Runtime.Core.Page;
 using UnityScreenNavigator.Runtime.Core.Modal;
 
-namespace nitou.UI {
+namespace Nitou.UI {
 
     /// <summary>
     /// 

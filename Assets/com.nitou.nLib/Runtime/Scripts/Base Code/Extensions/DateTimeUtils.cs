@@ -4,7 +4,7 @@ using System.Globalization;
 // [参考]
 //  LIGHT11: 
 
-namespace nitou {
+namespace Nitou {
 
     public static class DateTimeUtils {
 

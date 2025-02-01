@@ -4,7 +4,7 @@ using UniRx;
 
 // [参考]
 
-namespace nitou.SceneSystem{
+namespace Nitou.SceneSystem{
 
     public interface ISceneEntity<TScene>
         where TScene : Enum{

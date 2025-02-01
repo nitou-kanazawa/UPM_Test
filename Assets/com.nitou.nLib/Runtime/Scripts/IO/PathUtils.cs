@@ -10,7 +10,7 @@ using UnityEngine;
 //  はなちる: 絶対パスをAssets/~に変換する https://www.hanachiru-blog.com/entry/2018/10/12/204022
 //  _ : フルパスをAssetsパスに変換する方法 https://mizutanikirin.net/unity-assetspath
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// パス取得に関する汎用メソッド集

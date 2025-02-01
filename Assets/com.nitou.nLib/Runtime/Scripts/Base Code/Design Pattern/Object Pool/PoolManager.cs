@@ -4,7 +4,7 @@ using UnityEngine.Pool;
 // [REF]
 //  qiita: Unity標準のObjectPoolを汎用的に使うクラスの作成 https://qiita.com/KeichiMizutani/items/ca46a40de02e87b3d8a8
 
-namespace nitou.DesignPattern.Pooling {
+namespace Nitou.DesignPattern.Pooling {
 
     /// <summary>
     /// 

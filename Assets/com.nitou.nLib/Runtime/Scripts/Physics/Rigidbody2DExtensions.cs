@@ -3,7 +3,7 @@
 // [参考]
 //  PG日誌: RigidBody2DにAddExplosionForceを追加する https://takap-tech.com/entry/2023/11/29/004251
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// Rigidbody2Dの拡張メソッドクラス

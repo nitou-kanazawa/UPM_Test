@@ -2,7 +2,7 @@
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 
-namespace nitou.UI.Overlay{
+namespace Nitou.UI.Overlay{
 
     /// <summary>
     /// オーバーレイ画面のインターフェース．

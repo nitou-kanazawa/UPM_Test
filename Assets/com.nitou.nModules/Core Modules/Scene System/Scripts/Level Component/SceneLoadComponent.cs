@@ -6,8 +6,8 @@ using Sirenix.OdinInspector;
 using UnityEditor;
 #endif
 
-namespace nitou.SceneSystem.Demo{
-    using nitou.RichText;
+namespace Nitou.SceneSystem.Demo{
+    using Nitou.RichText;
 
     /// <summary>
     /// インスペクタで設定したシーンを読み込むコンポーネント
@@ -44,7 +44,7 @@ namespace nitou.SceneSystem.Demo{
 }
 
 #if UNITY_EDITOR
-namespace nitou.SceneSystem.Demo.EditorScripts {
+namespace Nitou.SceneSystem.Demo.EditorScripts {
 
     [CustomEditor(typeof(SceneLoadComponent))]
     public class SceneLoadComponentEditor : Editor {

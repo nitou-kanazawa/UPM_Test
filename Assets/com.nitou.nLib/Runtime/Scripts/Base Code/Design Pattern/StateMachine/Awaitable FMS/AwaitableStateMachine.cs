@@ -12,7 +12,7 @@ using System.Runtime.Serialization;
 //  _: UniTaskがパワーアップ！『UniTask v2』を使おう！ https://hackmd.io/@-xLrSnFfROOeIeRnENCWcQ/HkVAMY5Sd
 //  note: UniTaskに善玉例外を投げよう！CancellationToken.ThrowIfCancellationRequested() https://note.com/sandbox9/n/nff7ab030c9dd
 
-namespace nitou.DesignPattern {
+namespace Nitou.DesignPattern {
 
     /// <summary>
     /// UniTaskに対応したシンプルなステートマシン．

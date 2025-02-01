@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     [RequireComponent(typeof(CanvasGroup))]
     public abstract class ContentView : MonoBehaviour {

@@ -1,4 +1,4 @@
-﻿namespace nitou.SaveSystem{
+﻿namespace Nitou.SaveSystem{
 
     /// <summary>
     /// データの保存・読み込みの実処理を担うインターフェース．

@@ -1,8 +1,8 @@
 ﻿#if UNITY_EDITOR
 using UnityEngine;
 
-namespace nitou.Tools.ProjectWindow{
-    using nitou.EditorShared;
+namespace Nitou.Tools.ProjectWindow{
+    using Nitou.EditorShared;
     using System.IO;
     using UnityEditor;
 

@@ -5,7 +5,7 @@ using NUnit.Framework;
 // [REF]
 //  qiita: Unity Test Runnerの使い方を理解する https://qiita.com/riekure/items/b0f89280ecfcfa626f7b
 
-namespace nitou.Tests {
+namespace Nitou.Tests {
 
     public enum SampleEnum {
         First,

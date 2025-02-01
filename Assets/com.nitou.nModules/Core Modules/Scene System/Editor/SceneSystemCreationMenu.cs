@@ -2,8 +2,8 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.SceneSystem.EditorScripts{
-    using nitou.SceneSystem.Demo;
+namespace Nitou.SceneSystem.EditorScripts{
+    using Nitou.SceneSystem.Demo;
 
     /// <summary>
     /// 

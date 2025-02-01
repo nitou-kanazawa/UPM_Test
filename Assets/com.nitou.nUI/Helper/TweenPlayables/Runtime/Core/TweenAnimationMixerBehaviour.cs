@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Playables;
 
-namespace nitou.TweenPlayables {
+namespace Nitou.TweenPlayables {
 
     public abstract class TweenAnimationMixerBehaviour<TBinding, TAnimationBehaviour> : PlayableBehaviour
         where TBinding : Component

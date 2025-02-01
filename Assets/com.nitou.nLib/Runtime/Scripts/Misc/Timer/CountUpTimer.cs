@@ -5,7 +5,7 @@ using UnityEngine;
 // [参考]
 //  _: Mathfの切り上げ、切り捨て、偶数丸め。使い分けが大事よね https://ekulabo.com/mathf-round
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// カウントアップ方式のタイマー

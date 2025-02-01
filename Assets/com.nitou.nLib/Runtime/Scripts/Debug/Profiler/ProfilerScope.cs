@@ -3,7 +3,7 @@
 // [参考]
 //  Unity Document: Profiler.BeginSample https://docs.unity3d.com/ja/current/ScriptReference/Profiling.Profiler.BeginSample.html
 
-namespace nitou {
+namespace Nitou {
 
     public readonly struct ProfilerScope : System.IDisposable{
 

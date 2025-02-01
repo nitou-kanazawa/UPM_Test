@@ -4,15 +4,15 @@ using System.Text;
 using System.Diagnostics;
 using UnityEngine;
 
-// [参考]
+// [REF]
 //  qiita: UnityEditorの時のみDebug.Logを出す方法 https://qiita.com/toRisouP/items/d856d65dcc44916c487d
 //  zonn: Debug.Logを便利にするために工夫していること https://zenn.dev/happy_elements/articles/38be21755773e0
 //  _: Color型変数をもとにDebug.Logの文字色を変更する https://nmxi.hateblo.jp/entry/2019/02/24/235216
 //  kanのメモ帳: ConditionalAttributeで複数のシンボルのANDやORを実装する方法 https://kan-kikuchi.hatenablog.com/entry/ConditionalAttribute_AND_OR
 //  kanのメモ帳: 開発用ビルド時に有効になるDEVELOPMENT_BUILDとDEBUGの違い https://kan-kikuchi.hatenablog.com/entry/DEVELOPMENT_BUILD_DEBUG
 
-namespace nitou {
-    using nitou.RichText;
+namespace Nitou {
+    using Nitou.RichText;
     using System.Text.RegularExpressions;
     using Debug = UnityEngine.Debug;
 

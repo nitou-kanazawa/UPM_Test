@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 列挙型の基本的な拡張メソッド集

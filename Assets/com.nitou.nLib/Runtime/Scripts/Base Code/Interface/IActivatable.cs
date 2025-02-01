@@ -2,7 +2,7 @@
 using System.Linq;
 
 
-namespace nitou {
+namespace Nitou {
 
     public interface IActivatable {
 

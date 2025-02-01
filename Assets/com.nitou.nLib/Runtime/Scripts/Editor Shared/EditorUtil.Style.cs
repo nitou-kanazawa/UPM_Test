@@ -6,7 +6,7 @@ using UnityEditor;
 //  hatena: EditorWindow で GUIStyle を使う際の注意 https://hacchi-man.hatenablog.com/entry/2020/03/17/220000
 //  hatena: 色別の GUIStyle をキャッシュするクラス https://hacchi-man.hatenablog.com/entry/2020/08/16/220000
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
     public static partial class EditorUtil {
 
         /// <summary>

@@ -7,7 +7,7 @@ using UnityEditor;
 // [REF]
 //  UnityDoc: InitializeOnEnterPlayModeAttribute https://docs.unity3d.com/ja/2023.2/ScriptReference/InitializeOnEnterPlayModeAttribute.html
 
-namespace nitou.SceneSystem{
+namespace Nitou.SceneSystem{
 
     /// <summary>
     /// 登録されたクラスの初期化処理を行う．

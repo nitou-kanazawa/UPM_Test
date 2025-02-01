@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou.DataManagement {
+namespace Nitou.DataManagement {
 
     public sealed class ManageableDataAttribute : Attribute { }
 

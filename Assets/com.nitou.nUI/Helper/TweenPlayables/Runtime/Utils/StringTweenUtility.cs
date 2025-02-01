@@ -1,7 +1,7 @@
 ﻿using System;
 using Random = UnityEngine.Random;
 
-namespace nitou.TweenPlayables {
+namespace Nitou.TweenPlayables {
 
     public static class StringTweenUtility {
         

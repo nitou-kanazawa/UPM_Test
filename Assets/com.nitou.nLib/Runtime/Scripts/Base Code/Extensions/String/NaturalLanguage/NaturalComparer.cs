@@ -7,7 +7,7 @@ using System.Text;
 // [参考]
 //  qiita: C# 自然順で文字列をソートする https://qiita.com/tomochan154/items/1a3048f2cd9755233b4f
 
-namespace nitou.NaturalLanguage {
+namespace Nitou.NaturalLanguage {
 
     /// ----------------------------------------------------------------------------
     #region Enum

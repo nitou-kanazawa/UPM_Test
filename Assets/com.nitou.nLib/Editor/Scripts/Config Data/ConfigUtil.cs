@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace nitou.EditorScripts{
+namespace Nitou.EditorScripts{
 
     public static class ConfigUtil{
 

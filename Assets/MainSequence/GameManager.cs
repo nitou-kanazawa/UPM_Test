@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-using nitou.GameSystem; // 修正版のSimpleProcessBaseクラスを使用
+using Nitou.GameSystem; // 修正版のSimpleProcessBaseクラスを使用
 
 public class GameManager : MonoBehaviour {
     [SerializeField] private PauseMenuView pauseMenuController;

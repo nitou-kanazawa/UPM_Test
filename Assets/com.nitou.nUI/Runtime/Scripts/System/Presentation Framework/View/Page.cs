@@ -5,7 +5,7 @@ using UnityScreenNavigator.Runtime.Core.Page;
 
 // [NOTE] "USN_USE_ASYNC_METHODS"シンボルが必要．
 
-namespace nitou.UI.PresentationFramework {
+namespace Nitou.UI.PresentationFramework {
 
     [RequireComponent(typeof(CanvasGroup))]
     public abstract class Page<TRootView, TViewState> : Page

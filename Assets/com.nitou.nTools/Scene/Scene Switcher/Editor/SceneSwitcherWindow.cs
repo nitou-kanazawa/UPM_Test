@@ -10,7 +10,7 @@ using UnityEditor.SceneManagement;
 //  シーンを切り替えるボタンを表示するエディタ拡張 https://kyoro-s.com/unity-13/
 //  Unityがデータを保存するために使うパスについて https://light11.hatenadiary.com/entry/2019/10/07/031405
 
-namespace nitou.Tools.SceneSystem {
+namespace Nitou.Tools.SceneSystem {
 
     /// <summary>
     /// 編集時のシーン切り替えを容易にするためのウインドウ

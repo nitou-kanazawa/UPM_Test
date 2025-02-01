@@ -2,13 +2,13 @@
 using System.Linq;
 using UnityEngine;
 
-// [参考]
+// [REF]
 //  _: How can I get a Box Collider's "corners" (vertices) positions? https://gamedev.stackexchange.com/questions/128833/how-can-i-get-a-box-colliders-corners-vertices-positions
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
-    /// <see cref="BoxCollider"/>の基本的な拡張メソッド集
+    /// <see cref="BoxCollider"/>型の基本的な拡張メソッド集．
     /// </summary>
     public static partial class BoxColliderExtensions {
 
@@ -16,14 +16,14 @@ namespace nitou {
         // 
 
         /// <summary>
-        /// グローバル座標に変換したコライダー中心座標を取得する拡張メソッド
+        /// グローバル座標に変換したコライダー中心座標を取得する拡張メソッド．
         /// </summary>
         public static Vector3 GetWorldCenter(this BoxCollider box) {
             return box.transform.TransformPoint(box.center);
         }
 
         /// <summary>
-        /// 親階層を考慮したスケールを取得する拡張メソッド
+        /// 親階層を考慮したスケールを取得する拡張メソッド．
         /// </summary>
         public static Vector3 GetScaledSize(this BoxCollider box) {
             return Vector3.Scale(box.transform.lossyScale, box.size);
@@ -34,7 +34,7 @@ namespace nitou {
 
 
         /// <summary>
-        /// 点が<see cref="BoxCollider"/>の内部に含まれるか判定する拡張メソッド
+        /// 点が<see cref="BoxCollider"/>の内部に含まれるか判定する拡張メソッド．
         /// </summary>
         public static bool Contains(this BoxCollider box, Vector3 point) {
 
@@ -48,7 +48,7 @@ namespace nitou {
         }
 
         /// <summary>
-        /// 球が<see cref="BoxCollider"/>の内部に完全に含まれるか判定する拡張メソッド
+        /// 球が<see cref="BoxCollider"/>の内部に完全に含まれるか判定する拡張メソッド．
         /// </summary>
         public static bool Contains(BoxCollider box, SphereCollider sphere) {
             float radius = sphere.GetScaledRadius();
@@ -69,7 +69,7 @@ namespace nitou {
         #region MyRegion
 
         /// <summary>
-        /// 最も長い方向を調べる拡張メソッド
+        /// 最も長い方向を調べる拡張メソッド．
         /// </summary>
         public static Axis GetLongestAxis(this BoxCollider box) {
             var scale = box.GetScaledSize();
@@ -85,7 +85,7 @@ namespace nitou {
         }
 
         /// <summary>
-        /// コライダー中心から各軸方向(x,y,z)の境界座標
+        /// コライダー中心から各軸方向(x,y,z)の境界座標．
         /// </summary>
         public static (Vector3 vx, Vector3 vy, Vector3 vz) GetAxisBoundPoints(this BoxCollider box) {
 
@@ -99,7 +99,7 @@ namespace nitou {
         }
 
         /// <summary>
-        /// コライダー中心から各軸方向(x,y,z)の境界座標
+        /// コライダー中心から各軸方向(x,y,z)の境界座標．
         /// </summary>
         public static (Vector3 positive, Vector3 negative) GetAxisBoundPoints(this BoxCollider box, Axis axis) {
 
@@ -119,12 +119,12 @@ namespace nitou {
         /// ----------------------------------------------------------------------------
         #region 頂点/線/面の取得
 
-        // [参考]
+        // [REF]
         //  qiita: UnityのBoxColliderの頂点を取得するスクリプト https://qiita.com/RYUMAGE/items/dae74abaf2b7888dcbfa
         //  qiita: BoxColliderの各面をPlaneとして取得するスクリプト https://qiita.com/RYUMAGE/items/8fc826825ef27e178225
 
         /// <summary>
-        /// <see cref="BoxCollider"/> の８頂点のワールド座標を取得する拡張メソッド
+        /// <see cref="BoxCollider"/> の８頂点のワールド座標を取得する拡張メソッド．
         /// </summary>
         public static Vector3[] GetVertices(this BoxCollider box) {
 
@@ -151,7 +151,7 @@ namespace nitou {
         }
 
         /// <summary>
-        /// <see cref="BoxCollider"/> の6面を取得する拡張メソッド
+        /// <see cref="BoxCollider"/> の6面を取得する拡張メソッド．
         /// </summary>
         public static Plane[] GetPlanes(this BoxCollider box) {
 
@@ -172,7 +172,7 @@ namespace nitou {
         }
 
         /// <summary>
-        /// <see cref="BoxCollider"/> の線分を取得する拡張メソッド
+        /// <see cref="BoxCollider"/> の線分を取得する拡張メソッド．
         /// </summary>
         public static LineSegment3[] GetLines(this BoxCollider box, Axis axis) {
 

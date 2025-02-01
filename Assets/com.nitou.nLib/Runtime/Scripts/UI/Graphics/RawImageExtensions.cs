@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="RawImage"/>型の基本的な拡張メソッド集．

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
     public static partial class RectTransformExtensions {
 
         /// <summary>

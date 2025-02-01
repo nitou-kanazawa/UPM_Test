@@ -2,7 +2,7 @@
 using UnityEngine;
 using UniRx;
 
-namespace nitou.UI.Components{
+namespace Nitou.UI.Components{
 
     [AddComponentMenu(ComponentMenu.Prefix.UIComponents + "UI Toggle")]
     public class UIToggleButton : UIButton {

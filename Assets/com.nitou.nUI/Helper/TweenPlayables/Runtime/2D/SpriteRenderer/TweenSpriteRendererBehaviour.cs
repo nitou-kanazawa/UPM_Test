@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou.TweenPlayables
+namespace Nitou.TweenPlayables
 {
     [Serializable]
     public class TweenSpriteRendererBehaviour : TweenAnimationBehaviour<SpriteRenderer>

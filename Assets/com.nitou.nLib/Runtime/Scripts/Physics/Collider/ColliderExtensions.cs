@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 
-namespace nitou{
+namespace Nitou{
 
     /// <summary>
-    /// <see cref="Collider"/>の基本的な拡張メソッド集
+    /// <see cref="Collider"/>型の基本的な拡張メソッド集．
     /// </summary>
     public static class ColliderExtensions{
 
@@ -11,7 +11,7 @@ namespace nitou{
         #region Setter (メソッドチェーン用)
 
         /// <summary>
-        /// <see cref="Collider.isTrigger"/>を設定する拡張メソッド
+        /// <see cref="Collider.isTrigger"/>を設定する拡張メソッド．
         /// </summary>
         public static TCollider SetTrigger<TCollider>(this TCollider self, bool isTrigger) 
             where TCollider : Collider{
@@ -23,7 +23,7 @@ namespace nitou{
 
 
         /// <summary>
-        /// <see cref="Collider.material"/>を設定する拡張メソッド
+        /// <see cref="Collider.material"/>を設定する拡張メソッド．
         /// </summary>
 #if UNITY_6000_0_OR_NEWER
         public static TCollider SetMaterial<TCollider>(this TCollider self, PhysicsMaterial material)
@@ -49,7 +49,7 @@ namespace nitou{
         #region Center Position
 
         /// <summary>
-        /// グローバル座標に変換したコライダー中心座標を取得する拡張メソッド
+        /// グローバル座標に変換したコライダー中心座標を取得する拡張メソッド．
         /// </summary>
         public static Vector3 GetWorldCenter(this Collider self) {        
             if(self is BoxCollider box)  return box.GetWorldCenter();
@@ -57,12 +57,7 @@ namespace nitou{
             else if(self is CapsuleCollider capcel) return capcel.GetWorldCenter();
 
             return self.transform.position;
-        }
-               
-
-        
-
-        
+        }        
 #endregion
     }
 }

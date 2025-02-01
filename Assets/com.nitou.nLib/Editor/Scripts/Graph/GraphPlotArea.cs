@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
     public partial class GUIGraph {
 
         /// <summary>

@@ -3,7 +3,7 @@
 //  任意のタイミングでリセットしたいことが多くあるため，インターフェースを作成．
 //  親オブジェクトから再帰的に処理することが主目的．
 
-namespace nitou {
+namespace Nitou {
 
     public interface IInitializable {
 

@@ -6,7 +6,7 @@ using UnityEditor.Build;
 // [REF]
 //  はなちる: Player SettingsのScriptingDefineSymbolsをスクリプトから取得・設定する方法 https://www.hanachiru-blog.com/entry/2024/06/03/120000
 
-namespace nitou.EditorScripts {
+namespace Nitou.EditorScripts {
 
     /// <summary>
     /// 

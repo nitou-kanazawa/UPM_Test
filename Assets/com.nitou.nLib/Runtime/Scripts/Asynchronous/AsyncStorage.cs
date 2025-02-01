@@ -4,7 +4,7 @@ using Cysharp.Threading.Tasks;
 // [REF]
 //  qiita: 他のクラスが初期化されるまで待つ - UniTaskCompletionSourceの使用例 https://qiita.com/watabe_h/items/e3ccd749142cb37616e2
 
-namespace nitou {
+namespace Nitou {
 
 	/// <summary>
 	/// 

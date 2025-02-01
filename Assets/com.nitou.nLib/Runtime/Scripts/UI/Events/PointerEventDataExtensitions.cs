@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 // [参考]
 // Hatena: EventSystemsから受け取った座標をRectTransform.localPositionに設定する方法 https://appleorbit.hatenablog.com/entry/2015/10/23/000403
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="PointerEventData"/>の拡張メソッドクラス

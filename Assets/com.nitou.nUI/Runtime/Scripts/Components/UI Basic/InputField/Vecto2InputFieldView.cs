@@ -5,7 +5,7 @@ using TMPro;
 using Sirenix.OdinInspector;
 using System.Globalization;
 
-namespace nitou.UI {
+namespace Nitou.UI {
 
     /// <summary>
     /// <see cref="Vector2"/>の入力を受け付けるためのView．

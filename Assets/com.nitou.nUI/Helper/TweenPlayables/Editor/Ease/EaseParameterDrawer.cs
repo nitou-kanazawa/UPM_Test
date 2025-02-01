@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.TweenPlayables.Editor
+namespace Nitou.TweenPlayables.Editor
 {
     [CustomPropertyDrawer(typeof(EaseParameter))]
     public class EaseParameterDrawer : PropertyDrawer

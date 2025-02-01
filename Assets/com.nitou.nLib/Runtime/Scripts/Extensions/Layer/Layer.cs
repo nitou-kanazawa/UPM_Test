@@ -8,7 +8,7 @@ using UnityEditor;
 // [REF]
 //  ねこじゃらシティ: レイヤーをインスペクターから選択可能にする構造体 https://nekojara.city/unity-layer-inspector
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// レイヤー設定用の構造体．
@@ -91,7 +91,7 @@ namespace nitou {
 
 
 #if UNITY_EDITOR
-namespace nitou.Inspector.EditorScripts {
+namespace Nitou.Inspector.EditorScripts {
     
     [CustomPropertyDrawer(typeof(Layer))]
     internal class LayerPropertyDrawer : PropertyDrawer {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace nitou.InventorySystem {
+namespace Nitou.InventorySystem {
 
     /// <summary>
     /// アイテムに対するコマンド．

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace nitou.UI {
+namespace Nitou.UI {
 
     public static class UIHelper {
 

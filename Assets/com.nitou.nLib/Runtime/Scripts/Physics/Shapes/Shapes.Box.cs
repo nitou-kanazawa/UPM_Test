@@ -1,16 +1,17 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
     public partial class Shapes {
 
         /// <summary>
-        /// 直方体の形状を表すインスタンス
+        /// 直方体の形状を表すインスタンス．
         /// </summary>
-        [System.Serializable]
+        [Serializable]
         public class Box : Volume {
 
             /// <summary>
-            /// サイズ
+            /// サイズ．
             /// </summary>
             public Vector3 size = Vector3.zero;
 
@@ -51,7 +52,6 @@ namespace nitou {
             public override string ToString() {
                 return $"[Box] position: {position}, rotation: {eulerAngle}, size: {size}";
             }
-
         }
 
     }

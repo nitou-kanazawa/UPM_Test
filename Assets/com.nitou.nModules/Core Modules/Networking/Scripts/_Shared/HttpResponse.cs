@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou.Networking {
+namespace Nitou.Networking {
 
     [Serializable]
     public class HttpResponseStatus{

@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 自作パッケージのディレクトリパス指定用のクラス

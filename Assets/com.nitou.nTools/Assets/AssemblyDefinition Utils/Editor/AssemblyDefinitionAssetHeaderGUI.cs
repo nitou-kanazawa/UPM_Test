@@ -7,8 +7,8 @@ using UnityEditor;
 using UnityEditorInternal;
 using UnityEngine;
 
-namespace nitou.Tools.Assets {
-    using nitou.Tools.Shared;
+namespace Nitou.Tools.Assets {
+    using Nitou.Tools.Shared;
 
     /// <summary>
     /// Assembly Definition (.asmdef)のインスペクターに操作GUIを追加するクラス

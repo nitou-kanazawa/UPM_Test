@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="RectTransform"/>との重なりを判定するコンポーネント

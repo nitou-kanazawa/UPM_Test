@@ -4,7 +4,7 @@ using UnityEngine;
 // [参考]
 //  qiita: Unityで使える便利関数(拡張メソッド)達 https://qiita.com/nmss208/items/9846525cf523fb961b48
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Component"/>型の基本的な拡張メソッド集．

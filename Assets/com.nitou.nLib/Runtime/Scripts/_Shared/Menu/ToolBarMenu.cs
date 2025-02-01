@@ -1,5 +1,5 @@
 ﻿
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// UnityEditorのToolbarメニューに関する定義

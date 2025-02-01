@@ -5,7 +5,7 @@ using UnityEngine;
 // [参考]
 //  _:絶対パスと Assets パスの変換メソッド https://www.create-forever.games/unity-absolute-path-assets-path/#google_vignette
 
-namespace nitou {
+namespace Nitou {
 
     // [基本機能]
     // アセットパスの保持: アセットパスを表す文字列を保持する。
@@ -181,7 +181,7 @@ namespace nitou {
 
 /// --------------------------------------------------------------------
 #if UNITY_EDITOR
-namespace nitou.EditorScripts {
+namespace Nitou.EditorScripts {
     using UnityEditor;
 
     [CustomPropertyDrawer(typeof(AssetPath))]

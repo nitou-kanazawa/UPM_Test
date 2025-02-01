@@ -1,3 +1,3 @@
-﻿namespace nitou.TweenPlayables {
+﻿namespace Nitou.TweenPlayables {
     public class TweenCanvasGroupClip : TweenAnimationClip<TweenCanvasGroupBehaviour> { }
 }

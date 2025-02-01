@@ -3,7 +3,7 @@ using Cysharp.Threading.Tasks;
 using UnityEngine;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI.Overlay {
+namespace Nitou.UI.Overlay {
 
     /// <summary>
     /// オーバーレイを管理する

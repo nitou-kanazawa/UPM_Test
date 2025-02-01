@@ -7,8 +7,8 @@ using UnityEngine;
 //  youtube: データの永続化 - よくある間違いを回避しながらゲームの状態を保存およびロード | Unity チュートリアル https://www.youtube.com/watch?v=mntS45g8OK4&t=240s
 //  qiita: いい感じのUnity用セーブデータ管理クラス https://qiita.com/tocoteron/items/b865edaa0e3018cb5e55
 
-namespace nitou.SaveSystem {
-    using nitou.SaveSystem.Utils;
+namespace Nitou.SaveSystem {
+    using Nitou.SaveSystem.Utils;
 
     /// <summary>
     /// 

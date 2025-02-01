@@ -7,9 +7,9 @@ using UnityEngine;
 //  _: Hierarchy でオブジェクトのコンポーネント一覧をアイコン表示 https://www.midnightunity.net/unity-extension-hierarchy-show-components/
 //  github : Alchemy/HierarchyToggleDrawer.cs https://github.com/AnnulusGames/Alchemy/blob/main/Alchemy/Assets/Alchemy/Editor/Hierarchy/HierarchyToggleDrawer.cs
 
-namespace nitou.Tools.Hierarchy.EditorSctipts {
-    using nitou.EditorShared;
-    using nitou.Tools.Shared;
+namespace Nitou.Tools.Hierarchy.EditorSctipts {
+    using Nitou.EditorShared;
+    using Nitou.Tools.Shared;
 
     public sealed class HierarchyToggleDrawer : HierarchyDrawer {
 

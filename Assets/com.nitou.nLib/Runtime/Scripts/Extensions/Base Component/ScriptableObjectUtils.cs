@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="ScriptableObject"/>型を対象とした汎用メソッド集．

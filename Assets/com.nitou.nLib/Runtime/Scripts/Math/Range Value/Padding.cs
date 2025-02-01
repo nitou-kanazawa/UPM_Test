@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 上下左右の余白を表す構造体．

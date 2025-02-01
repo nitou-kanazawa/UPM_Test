@@ -2,13 +2,13 @@
 #if UNITY_EDITOR
 using UnityEditor;
 using UnityEditor.AnimatedValues;
-using nitou.EditorShared;
+using Nitou.EditorShared;
 #endif
 
 // [参考]
 // ねこじゃらシティ: RectTransformのサイズをスクリプトから変更する https://nekojara.city/unity-rect-transform-size
 
-namespace nitou.DebugInternal {
+namespace Nitou.DebugInternal {
 
     /// <summary>
     /// <see cref="RectTransform"/>の各プロパティを可視化するためのデバッグ用コンポーネント

@@ -4,7 +4,7 @@ using System.ComponentModel;
 using UnityEngine.Timeline;
 using TMPro;
 
-namespace nitou.TweenPlayables
+namespace Nitou.TweenPlayables
 {
     [TrackBindingType(typeof(TextMeshProUGUI))]
     [TrackClipType(typeof(TweenTextMeshProUGUIClip))]

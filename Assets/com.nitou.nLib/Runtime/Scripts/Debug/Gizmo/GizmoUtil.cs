@@ -3,7 +3,7 @@
 // [REF]
 //  _: Gizmosで平面を描画する https://nyama41.hatenablog.com/entry/draw_gizmos_plane
 
-namespace nitou {
+namespace Nitou {
     public partial class GizmoUtil {
 
         /// <summary>

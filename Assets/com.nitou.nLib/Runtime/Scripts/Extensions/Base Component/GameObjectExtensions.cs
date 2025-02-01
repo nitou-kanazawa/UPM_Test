@@ -6,7 +6,7 @@ using UnityEngine;
 //  qiita: ちょっとだけ便利になるかもしれない拡張メソッド集 https://qiita.com/tanikura/items/ed5d56ebbfcad19c488d
 //  kanのメモ帳: 拡張メソッドとは、全ての子オブジェクトにレイヤーとマテリアル設定を行ってみる https://kan-kikuchi.hatenablog.com/entry/GameObjectExtension
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="GameObject"/>型の基本的な拡張メソッド集

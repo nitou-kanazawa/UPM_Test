@@ -2,10 +2,10 @@
 using System;
 #if UNITY_EDITOR
 using UnityEditor;
-using nitou.EditorShared;
+using Nitou.EditorShared;
 #endif
 
-namespace nitou.DebugInternal {
+namespace Nitou.DebugInternal {
 
 
     // [参考]

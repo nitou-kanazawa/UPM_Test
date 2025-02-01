@@ -10,8 +10,8 @@ using Unity.CodeEditor;
 // [参考]　
 //  コガネブログ: baba-s/Kogane.InspectorHeaderGUI https://github.com/baba-s/Kogane.InspectorHeaderGUI/blob/master/Editor/InspectorHeaderGUI.cs#L70
 
-namespace nitou.Tools.Inspector {
-    using nitou.EditorShared;
+namespace Nitou.Tools.Inspector {
+    using Nitou.EditorShared;
     using System.ComponentModel;
     using System.Diagnostics;
     using System.IO;

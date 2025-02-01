@@ -2,7 +2,7 @@
 using DG.Tweening;
 using Sirenix.OdinInspector;
 
-namespace nitou.UI.Components {
+namespace Nitou.UI.Components {
 
     [DisallowMultipleComponent]
     public class UICursorAnimation_PopStyle : UICursorAnimationBase {

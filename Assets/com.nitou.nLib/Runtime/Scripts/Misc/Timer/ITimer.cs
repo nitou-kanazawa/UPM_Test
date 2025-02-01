@@ -1,5 +1,5 @@
 ﻿
-namespace nitou{
+namespace Nitou{
 
     /// <summary>
     /// タイマーの基本操作を定義したインターフェース

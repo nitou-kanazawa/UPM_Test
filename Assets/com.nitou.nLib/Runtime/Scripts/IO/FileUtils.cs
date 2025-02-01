@@ -7,7 +7,7 @@ using System.Linq;
 // [REF]
 // _: ファイル・ディレクトリ関連util https://ameblo.jp/ka-neda/entry-12779824591.html
 
-namespace nitou {
+namespace Nitou {
     
     /// <summary>
     /// ファイル操作に関する汎用メソッド集．

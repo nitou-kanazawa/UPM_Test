@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.Tools.Hierarchy {
+namespace Nitou.Tools.Hierarchy {
 
     internal static class HierarchyObjectCreationMenu {
 

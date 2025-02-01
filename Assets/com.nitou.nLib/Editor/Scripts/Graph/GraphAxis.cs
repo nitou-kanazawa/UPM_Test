@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
     public partial class GUIGraph {
 
         public interface IGraphAxis {

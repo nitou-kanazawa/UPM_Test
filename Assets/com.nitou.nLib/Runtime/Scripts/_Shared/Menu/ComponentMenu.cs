@@ -1,5 +1,5 @@
 ﻿
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// "Component Menu"の各種定義．

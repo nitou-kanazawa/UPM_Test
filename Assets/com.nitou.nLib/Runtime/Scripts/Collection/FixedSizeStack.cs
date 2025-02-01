@@ -6,7 +6,7 @@ using System.Collections.Generic;
 // [REF]
 //  _: Stack<T> クラス https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.stack-1?view=net-8.0
 
-namespace nitou {
+namespace Nitou {
 
 	/// <summary>
 	/// A stack with a fixed maximum size.

@@ -5,7 +5,7 @@ using UnityEngine;
 //  ねこじゃらシティ: 線分同士の交差判定 https://nekojara.city/unity-line-segment-cross
 //  qiita: ２D線分計算Class https://qiita.com/RYUMAGE/items/a00cdc92e65116f23183
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 線分を表す構造体．

@@ -2,7 +2,7 @@
 
 // [NOTE] ※これはDemoとかに入れるコードかも (2024.08.03)
 
-namespace nitou.EventChannel{
+namespace Nitou.EventChannel{
 
     /// <summary>
     /// Raises an event on trigger collision

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.EditorScripts {
+namespace Nitou.EditorScripts {
 
     public class GUIStyleChecker : EditorWindow {
 

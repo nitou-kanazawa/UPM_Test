@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.EditorShared{
+namespace Nitou.EditorShared{
 
     /// <summary>
     /// 開発用のエディタウインドウ

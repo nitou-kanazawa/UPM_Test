@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
-using nitou;
+using Nitou;
 
 namespace DG.Tweening {
 

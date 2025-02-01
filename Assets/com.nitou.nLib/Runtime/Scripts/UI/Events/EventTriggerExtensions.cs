@@ -4,7 +4,7 @@ using UnityEngine.EventSystems;
 // [参考]
 //  qiita: EventTrigger のイベント登録を簡潔に書ける拡張メソッド https://qiita.com/Yamara/items/42b18a402c5bda132f37
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// EventTriggerの拡張メソッドクラス

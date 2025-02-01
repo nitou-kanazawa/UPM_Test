@@ -1,17 +1,16 @@
 ﻿using UnityEngine;
 
-// [参考]
+// [REF]
 //  Unity Forums: Do I need to destroy Instantiated ScriptableObjects not used anymore? https://forum.unity.com/threads/do-i-need-to-destroy-instantiated-scriptableobjects-not-used-anymore.1488063/
 
-// [メモ]
-//  ・UnityEngine.Objectから派生したオブジェクトは自分で破棄する必要がある. (Texture2D, Mesh, GameObject, etc)
 
-namespace nitou.BachProcessor {
+namespace Nitou.BachProcessor {
 
     /// <summary>
     /// Creates a ScriptableObject as a singleton.
     /// </summary>
-    public class DynamicSingletonSO<T> : ScriptableObject where T : DynamicSingletonSO<T> {
+    public class DynamicSingletonSO<T> : ScriptableObject 
+        where T : DynamicSingletonSO<T> {
 
         private static T _instance;
 
@@ -39,13 +38,15 @@ namespace nitou.BachProcessor {
         }
 
 
-        /// ----------------------------------------------------------------------------
-
         /// <summary>
-        /// アプリケーション終了時の処理
+        /// アプリケーション終了時の処理．
         /// </summary>
         private void OnQuit() {
             Application.quitting -= OnQuit;
+
+            // [NOTE]
+            //  UnityEngine.Objectから派生したオブジェクトは自分で破棄する必要がある.
+            //  (Texture2D, Mesh, GameObject, etc)
             Destroy(this);
         }
     }

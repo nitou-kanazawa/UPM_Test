@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 
-namespace nitou {
+namespace Nitou {
 
     public class GuidCollection<T> : KeyedCollection<Guid, T>, IKeyedCollection<Guid, T>
         where T : IIdentifiable {

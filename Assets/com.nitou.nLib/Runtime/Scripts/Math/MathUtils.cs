@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou{
+namespace Nitou{
 
     /// <summary>
     /// <see cref="Mathf"/>に足りない機能を提供する汎用メソッド集．

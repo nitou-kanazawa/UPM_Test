@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace nitou.DesignPattern.Pooling {
+namespace Nitou.DesignPattern.Pooling {
 
     /// <summary>
     /// <see cref="Array"/>を効率的に再利用するための静的クラス．

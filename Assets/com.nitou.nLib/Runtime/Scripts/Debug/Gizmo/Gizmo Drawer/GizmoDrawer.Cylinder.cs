@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
-using nitou.DesignPattern.Pooling;
+using Nitou.DesignPattern.Pooling;
 
 // [参考]
 //  Kanのメモ帳: ギズモで矢印、円柱、カプセル、円、弧を描画出来るようにするGizmoExtensions https://kan-kikuchi.hatenablog.com/entry/GizmoExtensions
 
-namespace nitou.DebugInternal {
+namespace Nitou.DebugInternal {
     internal static partial class GizmoDrawer {
 
         /// <summary>

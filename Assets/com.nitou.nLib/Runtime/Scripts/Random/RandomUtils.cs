@@ -4,16 +4,16 @@ using UnityEngine;
 using static UnityEngine.Mathf;
 using Random = UnityEngine.Random;
 
-// [参考]
+// [REF]
 //  UnityDocument: Random https://docs.unity3d.com/ja/2021.1/Manual/class-Random.html
 //  PG日誌: リストから要素をランダムにN個取得する https://takap-tech.com/entry/2019/10/17/003706
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
-    /// 乱数に関する汎用メソッド集
+    /// 乱数に関する汎用メソッド集．
     /// </summary>
-    public static class RandomUtil {
+    public static class RandomUtils {
 
         /// ----------------------------------------------------------------------------
         #region 範囲内からの選出

@@ -2,8 +2,8 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace nitou.Tools.Hierarchy.EditorSctipts {
-    using nitou.Tools.Shared;
+namespace Nitou.Tools.Hierarchy.EditorSctipts {
+    using Nitou.Tools.Shared;
 
     public class HierarchyRowSeparatorDrawer : HierarchyDrawer{
 

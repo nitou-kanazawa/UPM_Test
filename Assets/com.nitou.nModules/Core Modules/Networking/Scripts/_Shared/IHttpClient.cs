@@ -3,7 +3,7 @@ using System.Threading;
 using Cysharp.Threading.Tasks;
 using UnityEngine.Networking;
 
-namespace nitou.Networking {
+namespace Nitou.Networking {
 
     /// <summary>
     /// 

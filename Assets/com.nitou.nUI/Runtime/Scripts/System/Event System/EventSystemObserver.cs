@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using UniRx;
 
-namespace nitou.UI {
+namespace Nitou.UI {
 
     public class EventSystemObserver : MonoBehaviour {
 

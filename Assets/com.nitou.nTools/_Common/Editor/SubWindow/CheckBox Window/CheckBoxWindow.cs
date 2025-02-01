@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou.Tools.Shared {
+namespace Nitou.Tools.Shared {
 
     /// <summary>
     /// チェックボックスウインドウを呼び出すための静的クラス

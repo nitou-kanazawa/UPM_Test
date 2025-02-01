@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 using UnityEngine.UIElements;
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
 
     public class ProjectEditorSettingsProvider : SettingsProvider {
 

@@ -7,7 +7,7 @@ using UnityEngine;
 //  kanのメモ帳: Enumerable.Rangeを使って簡単かつスマートに連番のListを作る https://kan-kikuchi.hatenablog.com/entry/EnumerableRange
 //  MathWorks: linspace https://jp.mathworks.com/help/matlab/ref/linspace.html
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 汎用的なシーケンスデータを生成するユーティリティクラス

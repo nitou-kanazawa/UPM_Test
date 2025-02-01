@@ -2,10 +2,10 @@
 using Sirenix.OdinInspector;
 #if UNITY_EDITOR
 using UnityEditor;
-using nitou.EditorShared;
+using Nitou.EditorShared;
 #endif
 
-namespace nitou.DebugInternal {
+namespace Nitou.DebugInternal {
 
     /// <summary>
     /// <see cref="RectTransform"/>のRect範囲をViewport情報として可視化するデバッグ用コンポーネント

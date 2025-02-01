@@ -3,7 +3,7 @@
 // [REF]
 //  Zenn: UniRx/UniTask大全 https://zenn.dev/tmb/articles/e4fb3fe350852f
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// CancellationTokenSourceインスタンスを入れ替えて繰り返し使用するためのラッパー．

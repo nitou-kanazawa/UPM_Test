@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nitou{
+namespace Nitou{
 
     /// <summary>
     /// <see cref="IComparable"/>型の基本的な拡張メソッド集

@@ -8,7 +8,7 @@ using UnityEditor;
 // [REF]
 //  LIGHT11: AnimationCurveを正規化するアトリビュートを作る https://light11.hatenadiary.com/entry/2021/08/11/194500
 
-namespace nitou.Inspector {
+namespace Nitou.Inspector {
 
     /// <summary>
     /// <see cref="AnimationCurve"/>の範囲を0 ~ 1に制限する属性
@@ -29,7 +29,7 @@ namespace nitou.Inspector {
 
 
 #if UNITY_EDITOR
-namespace nitou.Inspector.EditorScripts {
+namespace Nitou.Inspector.EditorScripts {
 
     [CustomPropertyDrawer(typeof(NormalizedAnimationCurveAttribute))]
     public class NormalizedAnimationCurveAttributeDrawer : PropertyDrawer {

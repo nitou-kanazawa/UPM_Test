@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou.Tools.CodeGeneration{
+namespace Nitou.Tools.CodeGeneration{
 
     public sealed class CodeInfo{
         public string className;

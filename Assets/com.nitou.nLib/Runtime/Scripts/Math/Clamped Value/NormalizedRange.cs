@@ -3,7 +3,7 @@
 using UnityEditor;
 #endif
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 0～1の範囲の正規化された最小値と最大値を扱うための構造体。
@@ -52,7 +52,7 @@ namespace nitou {
 
 
 #if UNITY_EDITOR
-namespace nitou.Inspector {
+namespace Nitou.Inspector {
 
     [CustomPropertyDrawer(typeof(NormalizedRange))]
     internal sealed class NormalizedRangePropertyDrawer : PropertyDrawer {

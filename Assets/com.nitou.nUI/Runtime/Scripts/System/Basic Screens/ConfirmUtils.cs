@@ -3,7 +3,7 @@ using UniRx;
 using UnityEngine;
 using UnityScreenNavigator.Runtime.Core.Modal;
 
-namespace nitou.UI.BasicScreens {
+namespace Nitou.UI.BasicScreens {
 
     public static class ConfirmUtils {
 

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace nitou.DesignPattern.Pooling {
+namespace Nitou.DesignPattern.Pooling {
 
     public interface IPoolable {
         void New();

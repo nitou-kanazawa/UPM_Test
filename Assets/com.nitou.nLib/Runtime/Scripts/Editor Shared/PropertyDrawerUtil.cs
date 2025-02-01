@@ -6,7 +6,7 @@ using UnityEditor;
 // [参考]
 //  LIGHT11: PropertyDrawerでデフォルトのGUIを描画する https://light11.hatenadiary.com/entry/2019/05/13/215814
 
-namespace nitou.EditorShared {
+namespace Nitou.EditorShared {
 
     /// <summary>
     /// <see cref="PropertyDrawer"/>型の基本的な拡張メソッド集

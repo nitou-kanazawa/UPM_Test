@@ -5,7 +5,7 @@ using System.Collections.Generic;
 // [参考]
 //  コガネブログ: バージョン番号を管理する構造体の例
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// プロジェクトのバージョン番号を管理する構造体

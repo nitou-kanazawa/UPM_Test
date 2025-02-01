@@ -8,8 +8,8 @@ using UnityEngine;
 // [参考]
 //  github: Kogane Check Box Window https://github.com/baba-s/Kogane.CheckBoxWindow
 
-namespace nitou.Tools.Shared {
-    using nitou.EditorShared;
+namespace Nitou.Tools.Shared {
+    using Nitou.EditorShared;
 
     /// <summary>
     /// チェックボックスのリストを表示するウインドウ

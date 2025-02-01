@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace nitou {
+namespace Nitou {
 
     [CustomPropertyDrawer(typeof(OdinIgnoreAttribute))]
     internal class OdinIgnoreDrawer : PropertyDrawer {

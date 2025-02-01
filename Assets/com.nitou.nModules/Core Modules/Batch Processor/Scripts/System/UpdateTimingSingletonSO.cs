@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 using UnityEngine.Playables;
 
-namespace nitou.BachProcessor {
+namespace Nitou.BachProcessor {
 
     /// <summary>
-    /// 更新タイミング
+    /// システムの更新タイミング．
     /// </summary>
     public enum UpdateTiming : int {
         Update = 0,
@@ -18,35 +18,6 @@ namespace nitou.BachProcessor {
     /// </summary>
     public abstract class UpdateTimingSingletonSO<TSystem> : ScriptableObject
         where TSystem : UpdateTimingSingletonSO<TSystem> {
-
-        /// <summary>
-        /// <see cref="UpdateTiming"/>の各タイミングをサポートするためのインスタンス
-        /// </summary>
-        private static readonly TSystem[] Instance = new TSystem[3];
-
-        /// <summary>
-        /// インスタンスが生成済みか確認する　（※生成はしない）
-        /// </summary>
-        public static bool IsCreated(UpdateTiming timing) => Instance[(int)timing] != null;
-
-        /// <summary>
-        /// Get the instance. If the instance does not exist, it will be created.
-        /// </summary>
-        /// <param name="timing">Timing of update</param>
-        /// <returns>The instance</returns>
-        public static TSystem GetInstance(UpdateTiming timing) {
-            var index = (int)timing;
-            if (IsCreated(timing)) return Instance[index];
-
-            var instance = CreateInstance<TSystem>();
-            instance.Timing = timing;
-            instance.OnCreate(timing);
-            Application.quitting += instance.OnQuit;
-
-            Instance[index] = instance;
-
-            return instance;
-        }
 
 
         // ----- 
@@ -69,7 +40,44 @@ namespace nitou.BachProcessor {
         /// </summary>
         private void OnQuit() {
             Application.quitting -= OnQuit;
+            
+            // アプリ終了時に自身を破棄する．
             DestroyImmediate(this);
         }
+
+
+        /// ----------------------------------------------------------------------------
+        #region Static
+
+        /// <summary>
+        /// <see cref="UpdateTiming"/>の各タイミングをサポートするためのインスタンス．
+        /// </summary>
+        private static readonly TSystem[] _instances = new TSystem[3];
+
+        /// <summary>
+        /// インスタンスが生成済みか確認する　（※生成はしない）
+        /// </summary>
+        public static bool IsCreated(UpdateTiming timing) 
+            => _instances[(int)timing] != null;
+
+        /// <summary>
+        /// インスタンスを取得する．
+        /// 存在しなければ，生成する．
+        /// </summary>
+        public static TSystem GetInstance(UpdateTiming timing) {
+            var index = (int)timing;
+            if (IsCreated(timing)) return _instances[index];
+
+            // Create instance
+            var instance = ScriptableObject.CreateInstance<TSystem>();
+            instance.Timing = timing;
+            instance.OnCreate(timing);
+            Application.quitting += instance.OnQuit;
+
+            _instances[index] = instance;
+
+            return instance;
+        }
+        #endregion
     }
 }

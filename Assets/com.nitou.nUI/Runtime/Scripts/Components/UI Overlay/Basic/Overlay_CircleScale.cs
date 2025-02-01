@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace nitou.UI {
+namespace Nitou.UI {
     
     public class Overlay_CircleScale : MonoBehaviour {
 

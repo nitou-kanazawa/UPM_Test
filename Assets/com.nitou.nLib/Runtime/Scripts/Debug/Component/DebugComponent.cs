@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace nitou.DebugInternal{
+namespace Nitou.DebugInternal{
 
     [DisallowMultipleComponent]
     public abstract class DebugComponent: MonoBehaviour{

@@ -7,8 +7,11 @@ using UnityEngine.Profiling;
 //  UniDoc: Profiler https://docs.unity3d.com/ja/2023.2/ScriptReference/Profiling.Profiler.html
 //  UniDoc: Memory Profiler モジュール https://docs.unity3d.com/ja/current/Manual/ProfilerMemory.html
 
-namespace nitou {
+namespace Nitou {
 
+    /// <summary>
+    /// メモリ使用量を計測するためのクラス．
+    /// </summary>
     public sealed class UnityMemoryChecker {
 
         public float Used { get; private set; }

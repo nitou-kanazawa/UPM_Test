@@ -6,7 +6,7 @@ using System.Collections.Generic;
 //  qiita: Dictionaryの拡張メソッド 36選 https://qiita.com/soi/items/6ce0e0ddefdd062c026a
 //  コガネブログ: Dictionaryをforeachで使う時の記述を簡略化するDeconstruction https://baba-s.hatenablog.com/entry/2019/09/03/231000
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Dictionary{TKey, TValue}"/>型の基本的な拡張メソッド集

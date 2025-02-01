@@ -3,7 +3,7 @@
 // [参考]
 //  ライブドアブログ: ジェネリクス型の比較方法 http://templatecreate.blog.jp/archives/30579779.html
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 列挙型の要素順に意味を持たせるためのラッパー（Next,Previousへの遷移）

@@ -4,7 +4,7 @@
 //  ねこじゃらシティ: RectTransform.sizeDeltaの仕様と注意点 https://nekojara.city/unity-rect-transform-size-delta
 //  github: neon-izm/AnchorPreset.cs https://gist.github.com/neon-izm/512a439fe6d07348f6f421c6061338e3
 
-namespace nitou {
+namespace Nitou {
 
     // [NOTE]
     //  ・アンカー4点を同じ位置にまとめると、サイズは固定される（固定サイズ）

@@ -3,7 +3,7 @@
 // [REF] 
 //  LIGHT11: シーンのロードと初期化タイミングをちゃんと理解する https://light11.hatenadiary.com/entry/2022/02/24/202754
 
-namespace nitou.SceneSystem{
+namespace Nitou.SceneSystem{
 
     /// <summary>
     /// シーン読み込みを管理するクラス．

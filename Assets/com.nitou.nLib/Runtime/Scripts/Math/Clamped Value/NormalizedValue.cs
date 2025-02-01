@@ -3,7 +3,7 @@
 using UnityEditor;
 #endif
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// 正規化された値（値域０～１）を扱うための構造体
@@ -51,7 +51,7 @@ namespace nitou {
 
 /// ----------------------------------------------------------------------------
 #if UNITY_EDITOR
-namespace nitou.Inspector {
+namespace Nitou.Inspector {
 
     [CustomPropertyDrawer(typeof(NormalizedValue))]
     internal sealed class NormalizedFloatPropertyDrawer : PropertyDrawer {

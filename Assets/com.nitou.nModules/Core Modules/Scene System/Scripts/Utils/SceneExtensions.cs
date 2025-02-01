@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Scene"/>型の基本的な拡張メソッド集

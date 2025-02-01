@@ -4,7 +4,7 @@
 //  UnityDocument: Rect https://docs.unity3d.com/ja/2023.2/ScriptReference/Rect.html
 //  コガネブログ: Rect の代入を簡略化する Deconstruction https://baba-s.hatenablog.com/entry/2019/09/03/230100#google_vignette
 
-namespace nitou {
+namespace Nitou {
 
     /// <summary>
     /// <see cref="Rect"/>型の基本的な拡張メソッド集．
